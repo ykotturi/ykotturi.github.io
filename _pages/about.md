@@ -40,8 +40,6 @@ Current and past supporters of my work:
 <img src='/images/etsy-logo.png' width="100">
 <img src='/images/onr-logo.png' width="150">
 
-<br>
-
 <img src='/images/S_scholars_logo-color.jpeg' width="300">
 <img src='/images/waim.png' width="2000">
 
