@@ -23,7 +23,7 @@ Supporting Early-Stage Design Feedback Exchanges among Small Business Owners
 Building a More Inclusive Future of Expert Crowd Work
 #### To stay competitive in today's tech job market requires constant re-skilling and "up-skilling", to out run not only human competitors, but also machine competition--yes the robots are coming! The burden of re-skilling often falls onto the shoulders workers, and this burden is often heightened in online labor markets (freelancing such as [Upwork](https://upwork.com), crowdsourcing such as [AMT](https://www.mturk.com/)) where workers often lack support systems more readily found in traditional jobs. At the same time, workers continue to flock these online labor platforms, with some estimates projecting freelance, or contigent, workers will comprise 40% of U.S. laborforce in 2025. In this project, we are taking a participatory design approach to shaping tools and curriculum to facilitate local technical job mobility within the Pittsburgh area. This project is a collaboration with Profs [Jeff Bigham](http://www.cs.cmu.edu/~jbigham/), [Amy Pavel](https://amypavel.com/) and [Sarah Fox](https://www.sarahfox.info/) and [Mike Skirpan](http://mwskirpan.com/) and [Herman T Johnson](https://www.forge.community/about/) of [Community Forge](https://www.forge.community/), located in Wilkinsburg, PA. 
 
-#### [Read more](/files/chi22-600.pdf) and [more](https://dl.acm.org/doi/abs/10.1145/3432925).
+#### [Read more](/files/chi22b-sub2264-cam-i16.pdf) and [more](https://dl.acm.org/doi/abs/10.1145/3432925).
 
 ---
 
