@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yasmine Kotturi, PhD Student of Human-Computer Interaction"
+title                    : "Yasmine Kotturi, Ph.D."
 title_separator          : "-"
-name                     : &name "Yasmine Kotturi"
-description              : &description "PhD student, Human-Computer Interaction, Carnegie Mellon Univesity"
+name                     : &name "Yasmine Kotturi, Ph.D."
+description              : &description "Postdoctoral Associate, Human-Computer Interaction, Carnegie Mellon Univesity"
 url                      : https://ykotturi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ykotturi/ykotturi.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yasmine Kotturi"
+  name             : "Yasmine Kotturi, Ph.D."
   avatar           : "profilepic.png"
-  bio              : "PhD Student, Human-Computer Interaction, Carnegie-Mellon University"
+  bio              : "Postdoctoral Associate, Human-Computer Interaction, Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
