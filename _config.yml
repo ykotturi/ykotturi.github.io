@@ -82,7 +82,11 @@ analytics:
 author:
   name             : "Yasmine Kotturi"
   avatar           : "profilepic.png"
+<<<<<<< HEAD
   bio              : "Human-Computer Interaction, Carnegie Mellon University"
+=======
+  bio              : "Postdoctoral Associate, Human-Computer Interaction, Carnegie Mellon University"
+>>>>>>> 8c8cb3d72193f75315ea24eddf57000845029361
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
