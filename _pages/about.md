@@ -13,9 +13,7 @@ I am a Postdoctoral Associate at the Human-Computer Interaction Institute, advis
 
 <!-- ====== -->
 
-####
-
-I was advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/) throughout my Ph.D.: find my Ph.D. dissertation on "Community-Based Approaches to Building Peer Support Systems for Work" [here](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
+I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon where I was advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Find my Ph.D. dissertation on "Community-Based Approaches to Building Peer Support Systems for Work" [here](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
 
 
 
