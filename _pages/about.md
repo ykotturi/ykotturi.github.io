@@ -21,7 +21,7 @@ My current research projects include:
 Supporting Early-Stage Design Feedback Exchanges among Creative Entrepreneurs
 #### Receiving feedback on open-ended creative work is essential for success, especially for creative entrepreneurs who must balance their creative processes with business objectives. However, when creative entrepreneurs seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail. In this project, we have co-designed a platform with a local feminist makerspace to support online feedback exchange on in-progress ideas among trusted entrepreneurs. Throughout a three-year collaboration with our community partner, we iteratively created Peerdea, a smartphone application for both iOS and Android where entrepreneurs can ask for feedback on their work and business processes within a safeguarded environment of known and vetted peers. This project is a collaboration with Prof [Sarah Fox](https://www.sarahfox.info/), [Prototype PGH](https://prototypepgh.com/) a local markerspace in Pittsburgh as well as McKayla Kingston, Director UX Research at [Etsy](https://etsy.com) and the Creator Team at [Instagram](https://instagram.com). 
 
-[Download our mobile app Peerdea on TestFlight and Play](cheerpeer-invite.vercel.app/).
+[Download our mobile app Peerdea on TestFlight and Play](http://cheerpeer-invite.vercel.app/).
 
 #### [Read more](https://dl.acm.org/citation.cfm?id=3326580) and [more](https://dl.acm.org/doi/pdf/10.1145/3449089).
 
