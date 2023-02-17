@@ -12,7 +12,7 @@ redirect_from:
 I am a Postdoctoral Associate at the Human-Computer Interaction Institute, advised by [Jeff Bigham](https://www.cs.cmu.edu/~jbigham/).
 
 
-My Ph.D. is in Human-Computer Interaction from Carnegie-Mellon University, advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Find my Ph.D. dissertation on "Community-Based Approaches to Building Peer Support Systems for Work" [here](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
+My Ph.D. is in Human-Computer Interaction from Carnegie-Mellon University, advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Check out my Ph.D. dissertation on ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
 
 ----
 My current research projects include:
