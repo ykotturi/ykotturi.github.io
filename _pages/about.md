@@ -9,12 +9,15 @@ redirect_from:
 ---
 
 
+
 I am a Postdoctoral Associate at the Human-Computer Interaction Institute, advised by [Jeff Bigham](https://www.cs.cmu.edu/~jbigham/).
 
 
 My Ph.D. is in Human-Computer Interaction from Carnegie-Mellon University, advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Check out my Ph.D. dissertation on ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
 
 ----
+
+
 My current research projects include:
 
 Supporting Early-Stage Design Feedback Exchanges among Creative Entrepreneurs
@@ -37,6 +40,9 @@ Reimagining Online Hiring, at Large Scale
 #### Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality. This project explores a novel alternative approach to hiring at scale that leverages peer assessment to elicit honest assessments of fellow workers' job application materials, which it then aggregates using an impartial ranking algorithm. This project is a collaboration with Prof [Ariel Proccacia](http://procaccia.info/). 
 
 #### [Read more](https://ojs.aaai.org/index.php/AAAI/article/download/5641/5497) and [more](https://ojs.aaai.org/index.php/AAAI/article/view/11467/11326).
+
+
+[View my Publications](/publications)
 
 ---
 
