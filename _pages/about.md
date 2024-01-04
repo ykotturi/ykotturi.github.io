@@ -29,7 +29,7 @@ projects and publications
 
 <div class="projects-item">
 <div class="thumb">
-<img src='/images/foo-bar-identity.jpg' >
+<img src='images/image-alignment-300x200.jpg' >
 </div>
 
 <div class="des" markdown="1">
@@ -58,7 +58,7 @@ projects and publications
 ----
 <div class="projects-item">
 <div class="thumb">
-<img src='/images/foo-bar-identity.jpg' >
+<img src='images/image-alignment-300x200.jpg' >
 </div>
 
 <div class="des" markdown="1">
@@ -89,7 +89,7 @@ projects and publications
 
 <div class="projects-item">
 <div class="thumb">
-<img src='/images/foo-bar-identity.jpg' >
+<img src='images/image-alignment-300x200.jpg' >
 </div>
 
 <div class="des" markdown="1">
