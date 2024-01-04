@@ -15,13 +15,7 @@ I am a Postdoctoral Associate at the Human-Computer Interaction Institute, advis
 
 My Ph.D. is in Human-Computer Interaction from Carnegie-Mellon University, advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Check out my Ph.D. dissertation on ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
 
-<span style="background-color: yellow">I am on the job market!</span>
-
-[Research Statement]()
-
-[Teaching Statement]()
-
-[Diversity Statement]()
+<span style="background-color: yellow">I am on the job market!</span> Check out my [Research Statement](), [Teaching Statement](), and [Diversity Statement]().
 
 
 ----
