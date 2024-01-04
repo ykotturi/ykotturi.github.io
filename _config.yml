@@ -5,6 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+# Development server settings
+host: localhost
+port: 4000
+baseurl: /
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Yasmine Kotturi"

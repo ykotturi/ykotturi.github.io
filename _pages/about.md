@@ -16,46 +16,122 @@ I am a Postdoctoral Associate at the Human-Computer Interaction Institute, advis
 My Ph.D. is in Human-Computer Interaction from Carnegie-Mellon University, advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Check out my Ph.D. dissertation on ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
 
 ----
+<div class="project-label">
+
+projects and publications
+</div>
+
+<div class="projects-item">
+<div class="thumb">
+<img src='/images/foo-bar-identity.jpg' >
+</div>
+
+<div class="des" markdown="1">
 
 
-My current research projects include:
+### Supporting Early-Stage Design Feedback Exchanges among Creative Entrepreneurs
 
-Supporting Early-Stage Design Feedback Exchanges among Creative Entrepreneurs
-#### Receiving feedback on open-ended creative work is essential for success, especially for creative entrepreneurs who must balance their creative processes with business objectives. However, when creative entrepreneurs seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail. In this project, we have co-designed a platform with a local feminist makerspace to support online feedback exchange on in-progress ideas among trusted entrepreneurs. Throughout a three-year collaboration with our community partner, we iteratively created Peerdea, a smartphone application for both iOS and Android where entrepreneurs can ask for feedback on their work and business processes within a safeguarded environment of known and vetted peers. This project is a collaboration with Prof [Sarah Fox](https://www.sarahfox.info/), [Prototype PGH](https://prototypepgh.com/) a local markerspace in Pittsburgh as well as McKayla Kingston, Director UX Research at [Etsy](https://etsy.com) and the Creator Team at [Instagram](https://instagram.com). 
 
-#### [Download our mobile app Peerdea on TestFlight and Play](http://cheerpeer-invite.vercel.app/).
+ Receiving feedback on open-ended creative work is essential for success, especially for creative entrepreneurs who must balance their creative processes with business objectives. However, when creative entrepreneurs seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail.
 
-#### [Read more](https://dl.acm.org/citation.cfm?id=3326580) and [more](https://dl.acm.org/doi/pdf/10.1145/3449089).
+ [Read more](https://dl.acm.org/citation.cfm?id=3326580) and [more](https://dl.acm.org/doi/pdf/10.1145/3449089).
+ <div class="des-bar">
+ <a href="#" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a>
+    <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a>
+      <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+ </div>
+</div>
+</div>
+<div class="abstract-box">
+
+ Receiving feedback on open-ended creative work is essential for success, especially for creative entrepreneurs who must balance their creative processes with business objectives. However, when creative entrepreneurs seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail.
+
+</div>
 
 ----
+<div class="projects-item">
+<div class="thumb">
+<img src='/images/foo-bar-identity.jpg' >
+</div>
 
-Building a More Inclusive Future of Expert Crowd Work
-#### To stay competitive in today's tech job market requires constant re-skilling and "up-skilling", to out run not only human competitors, but also machine competition--yes the robots are coming! The burden of re-skilling often falls onto the shoulders workers, and this burden is often heightened in online labor markets (freelancing such as [Upwork](https://upwork.com), crowdsourcing such as [AMT](https://www.mturk.com/)) where workers often lack support systems more readily found in traditional jobs. At the same time, workers continue to flock these online labor platforms, with some estimates projecting freelance, or contigent, workers will comprise 40% of U.S. laborforce in 2025. In this project, we are taking a participatory design approach to shaping tools and curriculum to facilitate local technical job mobility within the Pittsburgh area. This project is a collaboration with Profs [Jeff Bigham](http://www.cs.cmu.edu/~jbigham/), [Amy Pavel](https://amypavel.com/) and [Sarah Fox](https://www.sarahfox.info/) and [Mike Skirpan](http://mwskirpan.com/) and [Herman T Johnson](https://www.forge.community/about/) of [Community Forge](https://www.forge.community/), located in Wilkinsburg, PA. 
+<div class="des" markdown="1">
 
-#### [Read more](/files/chi22b-sub2264-cam-i16.pdf) and [more](https://dl.acm.org/doi/abs/10.1145/3432925).
+### Building a More Inclusive Future of Expert Crowd Work
+ To stay competitive in today's tech job market requires constant re-skilling and "up-skilling", to out run not only human competitors, but also machine competition--yes the robots are coming! The burden of re-skilling often falls onto the shoulders workers, and this burden is often heightened in online labor markets (freelancing such as [Upwork](https://upwork.com), crowdsourcing such as [AMT](https://www.mturk.com/)) where workers often lack support systems more readily found in traditional jobs.
 
+ [Read more](/files/chi22b-sub2264-cam-i16.pdf) and [more](https://dl.acm.org/doi/abs/10.1145/3432925).
+
+<div class="des-bar">
+ <a href="#" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a>
+    <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a>
+      <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+ </div>
+
+</div>
+</div>
+
+<div class="abstract-box">
+
+ To stay competitive in today's tech job market requires constant re-skilling and "up-skilling", to out run not only human competitors, but also machine competition--yes the robots are coming! The burden of re-skilling often falls onto the shoulders workers, and this burden is often heightened in online labor markets (freelancing such as [Upwork](https://upwork.com), crowdsourcing such as [AMT](https://www.mturk.com/)) where workers often lack support systems more readily found in traditional jobs.
+
+</div>
 ---
 
-Reimagining Online Hiring, at Large Scale
-#### Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality. This project explores a novel alternative approach to hiring at scale that leverages peer assessment to elicit honest assessments of fellow workers' job application materials, which it then aggregates using an impartial ranking algorithm. This project is a collaboration with Prof [Ariel Proccacia](http://procaccia.info/). 
-
-#### [Read more](https://ojs.aaai.org/index.php/AAAI/article/download/5641/5497) and [more](https://ojs.aaai.org/index.php/AAAI/article/view/11467/11326).
 
 
-[View my Publications](/publications)
+<div class="projects-item">
+<div class="thumb">
+<img src='/images/foo-bar-identity.jpg' >
+</div>
 
+<div class="des" markdown="1">
+
+
+### Reimagining Online Hiring, at Large Scale
+ Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality.
+ [Read more](https://ojs.aaai.org/index.php/AAAI/article/download/5641/5497) and [more](https://ojs.aaai.org/index.php/AAAI/article/view/11467/11326).
+<div class="des-bar">
+ <a href="#" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a>
+    <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a>
+      <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+ </div>
+</div>
+</div>
+<div class="abstract-box">
+
+Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality.
+</div>
 ---
 
+<div class="project-label">
 
 Current and past supporters of my work:
+</div>
 
+<div class="project-supporters">
+<div class="item">
 <img src='/images/insta-logo.png' width="75" >
+</div>
+
+<div class="item">
 <img src='/images/etsy-logo.png' width="100">
+</div>
+
+
+<div class="item">
 <img src='/images/onr-logo.png' width="150">
+</div>
 
+<div class="item">
 <img src='/images/S_scholars_logo-color.jpeg' width="300">
+</div>
+<div class="item">
 <img src='/images/waim.png' width="2000">
-
+</div>
+</div>
 
 ###### Picture of me by [@gerardoforsure](https://twitter.com/gerardoforsure)
 
