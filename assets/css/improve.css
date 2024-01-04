@@ -1,0 +1,159 @@
+body {
+
+    font-family: 'Roboto', sans-serif !important;
+    color: #606f7b !important;
+
+
+}h1,h2,h3,h4,h5,h6 {
+    font-family: 'Roboto Slab', serif !important;
+
+}
+a {
+    color: #186ca3;
+    text-decoration: none !important;
+    &:hover {
+        text-decoration: underline !important;
+    }
+}
+
+.page {
+
+    padding-right: 0px !important;
+
+}
+.page__content p, .page__content li, .page__content dl {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+
+hr {
+    opacity: 0;
+}
+.projects-item
+{
+    display: flex;
+    padding: 10px;
+    border: 1px solid #eee;
+    padding: 12px;
+    border-radius: 10px;
+}
+.projects-item .thumb{
+    width: 350px;
+    flex-shrink: 0;
+    margin: 0px 20px 0px 0px
+}
+.projects-item .des {
+    width: 100%;
+
+}
+.projects-item .des h3 {
+    margin: 0px 0px 10px 0px;
+    padding: 0px
+}
+.projects-item .des p {
+    margin: 0px 0px 10px 0px;
+}
+@media screen and (max-width: 991px) {
+
+.projects-item
+{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.projects-item .thumb{
+    width: 100%;
+    flex-shrink: 0;
+    margin: 0px 0px 15px 0px
+}
+}
+
+.project-label
+{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: 'Roboto Slab', serif !important;
+    font-weight: 700;
+    margin: 0px 0px 15px 0px;
+}
+
+.project-supporters .item {
+    display: inline-block;
+    margin: 10px 20px 20px 0px;
+}
+.project-supporters .item img {
+    max-height: 150px;
+    max-width: 220px;
+
+}
+.des-bar
+{
+    padding: 5px 0px;
+    border-bottom: 1px dashed #fafafa;
+    border-top: 1px dashed #fafafa;
+}
+
+.des-bar a
+{
+    margin: 0px 15px 0px 0px;
+    font-size: 14px;
+    color: #606f7b ;
+
+}
+.des-bar a i {
+    margin: 0px 4px 0px 0px;
+}
+.des-bar a:hover {
+    color: #186ca3;
+}
+
+
+.page__footer {
+
+    color: #fff !important;
+
+    background-color: #252f38 !important;
+    border-top: 1px solid #252f38 !important;
+}
+
+.author__urls.social-icons li
+{    font-size: 14px;
+    color: #606f7b;
+    border-bottom: 1px solid #eee;
+    margin: 0px 0px 0px 0px;
+}
+.author__urls.social-icons li i
+{
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    display: inline-block;
+
+
+    text-align: center
+}
+.author__urls.social-icons li .icon {
+
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    display: inline-block;
+
+    text-align: center
+
+}
+.author__urls.social-icons li .icon svg {
+    margin: 8px 0px 0px 0px;
+}
+.social-icons .fa-github, .social-icons .fa-github-alt, .social-icons .fa-github-square {
+    color: #606f7b !important;
+}
+.abstract-box
+{
+    border: 1px solid #eee;
+    background-color: #fafafa;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 14px;
+display: none;
+}
