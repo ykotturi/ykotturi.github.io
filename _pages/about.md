@@ -11,11 +11,11 @@ redirect_from:
 # This page is under contruction! (1/4/2024)
 
 
-I am a Postdoctoral Associate at the Human-Computer Interaction Institute, advised by [Jeff Bigham](https://www.cs.cmu.edu/~jbigham/)
+I am a postdoc at the Human-Computer Interaction Institute, advised by [Jeff Bigham](https://www.cs.cmu.edu/~jbigham/)
 
 My Ph.D. is in Human-Computer Interaction from Carnegie-Mellon University, advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Check out my Ph.D. dissertation on ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
 
-<span style="background-color: yellow">I am on the job market!</span> Check out my [Research Statement](), [Teaching Statement](), and [Diversity Statement]().
+<span style="background-color: yellow">I am on the job market!</span> Check out my [Research](), [Teaching](), and [Diversity]() statements.
 
 
 ----

@@ -13,7 +13,7 @@ baseurl: /
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yasmine Kotturi"
+title                    : "Yasmine Kotturi, Ph.D." #deleted from masterhead.html to remove redundancy
 title_separator          : "-"
 name                     : &name "Yasmine Kotturi, Ph.D."
 description              : &description "Human-Computer Interaction, Carnegie Mellon Univesity"
@@ -86,7 +86,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yasmine Kotturi"
+  name             : "Yasmine Kotturi, Ph.D."
   avatar           : "profilepic.png"
   bio              : "Human-Computer Interaction, Carnegie Mellon University"
   location         : "Pittsburgh, PA"
