@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# This page is under contruction! (1/4/2024)
+### I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). 
 
-I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). I received my Ph.D. from the HCII in 2022 and completed my dissertation, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/).
+\\
+I received my Ph.D. from the HCII in 2022 and completed my dissertation, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/).
 
 
 <span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements.
@@ -67,7 +68,7 @@ CSCW 2024
 ----
 <div class="projects-item">
 <div class="thumb">
-<img src='images/image-alignment-300x200.jpg' >
+<img src='images/community-forge1.png' style="width:300px;">
 </div>
 
 <div class="des" markdown="1">
@@ -103,26 +104,30 @@ However, the lack of sustainable considerations for maintenance and repair of th
 
 <div class="projects-item">
 <div class="thumb">
-<img src='images/image-alignment-300x200.jpg' >
+<img src='images/tech-help-desk.png' style="width:300px;">
 </div>
 
 <div class="des" markdown="1">
 
+### Tech Help Desk: Support for Local Entrepreneurs Addressing the Long Tail of Computing Challenges
 
-### Reimagining Online Hiring, at Large Scale
- Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality.
- [Read more](https://ojs.aaai.org/index.php/AAAI/article/download/5641/5497) and [more](https://ojs.aaai.org/index.php/AAAI/article/view/11467/11326).
+Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy Pavel
+
+ Even entrepreneurs whose businesses are not technological (e.g., handmade goods) need to be able to use a wide range of computing technologies in order to achieve their business goals. In this paper, we follow a participatory action research approach and collaborate with various stakeholders at an entrepreneurial co-working space to design “Tech Help Desk”, an on-going technical service for entrepreneurs, which has been running for over four years.
+
+ CHI 2022
+ 
 <div class="des-bar">
- <a href="#" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a>
-    <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a>
-      <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+  <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517708" target="_blank"><i class="fas fa-link"></i> Doi </a>
+  <a href="/files/chi22b-sub2264-cam-i16.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
  </div>
 </div>
 </div>
 <div class="abstract-box">
-
-Expert crowdsourcing (e.g., Upwork.com) provides promising benefits such as productivity improvements for employers, and flexible working arrangements for workers. Yet to realize these benefits, a key persistent challenge is effective hiring at scale. Current approaches, such as reputation systems and standardized competency tests, develop weaknesses such as score inflation over time, thus degrading market quality.
+  Even entrepreneurs whose businesses are not technological (e.g., handmade goods) need to be able to use a wide range of computing technologies in order to achieve their business goals. In this paper, we follow a participatory action research approach and collaborate with various stakeholders at an entrepreneurial co-working space to design “Tech Help Desk”, an on-going technical service for entrepreneurs. Our model for technical assistance is strategic, in how it is designed to fit the context of local entrepreneurs, and responsive, in how it prioritizes emergent needs. From our engagements with 19 entrepreneurs and support personnel, we reflect on the challenges with existing technology support for non-technological entrepreneurs. Our work highlights the importance of ensuring technological support services can adapt based on entrepreneurs’ ever-evolving priorities, preferences and constraints. Furthermore, we find technological support services should maintain broad technical support for entrepreneurs’ long tail of computing challenges.
 </div>
 ---
 
