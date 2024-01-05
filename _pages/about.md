@@ -27,31 +27,45 @@ Projects and Publications
 
 <div class="projects-item">
 <div class="thumb">
-<img src='images/image-alignment-300x200.jpg' >
+<img src='images/peerdea.png' style="width:300px;">
 </div>
-
 <div class="des" markdown="1">
 
 
-### Supporting Early-Stage Design Feedback Exchanges among Creative Entrepreneurs
+### Peerdea: Co-Designing a Peer Support Platform with Creative Entrepreneurs
 
+Yasmine Kotturi, Jenny Yu, Pranav Khadpe, Harvey Zheng, Erin Gatz, Sarah Fox, Chinmay Kulkarni
 
- Receiving feedback on open-ended creative work is essential for success, especially for creative entrepreneurs who must balance their creative processes with business objectives. However, when creative entrepreneurs seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail.
+In this paper, we describe a multi-year partnership with a local feminist makerspace to build a social platform, called Peerdea, which centered creative entrepreneurs' needs such that online feedback and information exchange, and goal setting and accountability were more readily available to them. Through an iterative, community-collaborative approach with 46 creative entrepreneurs, we report on the kinds of peer support entrepreneurs sought on Peerdea such as feedback on in-progress and unpolished work.
 
- [Read more](https://dl.acm.org/citation.cfm?id=3326580) and [more](https://dl.acm.org/doi/pdf/10.1145/3449089).
+CSCW 2024
+
  <div class="des-bar">
- <a href="#" target="_blank"><i class="fas fa-globe"></i> Project website </a>
-  <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a>
-    <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a>
-      <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+   <a href="https://peerdea.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+   <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
+   <a href="#" class="copy-bib" id="copyBibLink"><i class="fas fa-copy"></i> <span>Copy BibTeX</span></a>
+   <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a>
+   <a href="/files/CSCW24_Co_Designing_a_Peer_Support_Platform_with_Creative_Entrepreneurs.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+   <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
  </div>
 </div>
 </div>
 <div class="abstract-box">
-
- Receiving feedback on open-ended creative work is essential for success, especially for creative entrepreneurs who must balance their creative processes with business objectives. However, when creative entrepreneurs seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail.
-
+  Creative entrepreneurs join makerspaces to build relationships with vetted and trustful peers over time. Yet, as makerspaces increasingly use social technologies to connect members online, such technological adoption is often incongruent with the unique needs of creative entrepreneurs such as safeguarding their reputation and intellectual property.  In this paper, we describe a multi-year partnership with a local feminist makerspace to build a social platform, called Peerdea, which centered creative entrepreneurs' needs such that online feedback and information exchange, and goal setting and accountability were more readily available to them.  Through an iterative, community-collaborative approach with 46 creative entrepreneurs, we report on the kinds of peer support entrepreneurs sought on Peerdea such as feedback on in-progress and unpolished work. We argue that by aligning the platform's design with the makerspace's community of practice, Peerdea leveraged the relationship and trust building which occurs more readily in-person for entrepreneurs. In addition, we highlight the role of a community mediator who actively managed the relationships between researchers and entrepreneurs, surfaced failures and championed successes, and overall provided a critical link for co-design when participants' livelihoods were implicated.
 </div>
+
+<textarea id="bibtexText" style="opacity: 0; position: absolute; top: -9999px;">
+@article{kotturi2024peerdea,
+  title={Peerdea: Co-Designing a Peer Support Platform with Creative Entrepreneurs},
+  author={Kotturi, Yasmine and Yu, Jenny and Khadpe, Pranav, and Zheng, Harvey, and Gatz, Erin and Fox, Sarah E and Kulkarni, Chinmay},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={},
+  number={CSCW1},
+  pages={1--27},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}
+</textarea>
 
 ----
 <div class="projects-item">
@@ -140,6 +154,28 @@ Current and past supporters of my work:
 ###### Picture of me by [@gerardoforsure](https://twitter.com/gerardoforsure)
 
 ------
+
+
+<script>
+document.getElementById("copyBibLink").addEventListener("click", function(event) {
+    event.preventDefault(); // Prevent the default anchor action
+
+    // Get the BibTeX text from the textarea
+    var copyText = document.getElementById("bibtexText");
+
+    // Select the text
+    copyText.style.opacity = 1; // Make the textarea visible to enable selection
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); // For mobile devices
+
+    // Copy the text inside the textarea
+    document.execCommand("copy");
+
+    // Hide the textarea again
+    copyText.style.opacity = 0;
+    alert("BibTeX copied to clipboard"); // Optional: alert the user it was copied
+});
+</script>
 
 <!--  Create content & metadata
 ------
