@@ -11,17 +11,18 @@ redirect_from:
 # This page is under contruction! (1/4/2024)
 
 
-I am a postdoc at the Human-Computer Interaction Institute, advised by [Jeff Bigham](https://www.cs.cmu.edu/~jbigham/)
+I am a postdoc at the Human-Computer Interaction Institute, working with [Jeff Bigham](https://www.cs.cmu.edu/~jbigham/).
 
-My Ph.D. is in Human-Computer Interaction from Carnegie-Mellon University, advised by [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Check out my Ph.D. dissertation on ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf).
+I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). I received my Ph.D. from the HCII in 2022 and completed my dissertation, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/).
 
-<span style="background-color: yellow">I am on the job market!</span> Check out my [Research](), [Teaching](), and [Diversity]() statements.
+
+<span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements.
 
 
 ----
 <div class="project-label">
 
-projects and publications
+Projects and Publications
 </div>
 
 <div class="projects-item">
