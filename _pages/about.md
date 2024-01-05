@@ -10,9 +10,6 @@ redirect_from:
 
 # This page is under contruction! (1/4/2024)
 
-
-I am a postdoc at the Human-Computer Interaction Institute, working with [Jeff Bigham](https://www.cs.cmu.edu/~jbigham/).
-
 I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). I received my Ph.D. from the HCII in 2022 and completed my dissertation, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/).
 
 
@@ -44,7 +41,7 @@ CSCW 2024
    <a href="https://peerdea.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
    <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
    <a href="#" class="copy-bib" id="copyBibLink"><i class="fas fa-copy"></i> <span>Copy BibTeX</span></a>
-   <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a>
+   <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
    <a href="/files/CSCW24_Co_Designing_a_Peer_Support_Platform_with_Creative_Entrepreneurs.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
    <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
  </div>
@@ -75,24 +72,29 @@ CSCW 2024
 
 <div class="des" markdown="1">
 
-### Building a More Inclusive Future of Expert Crowd Work
- To stay competitive in today's tech job market requires constant re-skilling and "up-skilling", to out run not only human competitors, but also machine competition--yes the robots are coming! The burden of re-skilling often falls onto the shoulders workers, and this burden is often heightened in online labor markets (freelancing such as [Upwork](https://upwork.com), crowdsourcing such as [AMT](https://www.mturk.com/)) where workers often lack support systems more readily found in traditional jobs.
+### Sustaining Community-Based Research in Computing: Lessons from Two Tech Capacity Building Initiatives for Local Businesses
 
- [Read more](/files/chi22b-sub2264-cam-i16.pdf) and [more](https://dl.acm.org/doi/abs/10.1145/3432925).
+Yasmine Kotturi, Julie Hui, TJ Johnson, Lutalo Sanifu, Tawanna Dillahunt
+
+Drawing on two multi-year programs for small-scale tech capacity building in post-industrial U.S. cities, this article presents a comparative analysis and retrospective ethnography to investigate the challenges and strategies for sustained community-based research in computing. In particular, our work aimed to better understand and contribute the necessary considerations and dynamics among the academic-community partnerships attributed to sustaining the community-based programs over time.
+
+CSCW 2024
 
 <div class="des-bar">
- <a href="#" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a>
-    <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a>
-      <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
- </div>
+  <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
+  <a href="/files/Kotturi_etal_CSCW_2024_SustainingCBPR.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <!-- <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a> -->
+</div>
 
 </div>
 </div>
 
 <div class="abstract-box">
 
- To stay competitive in today's tech job market requires constant re-skilling and "up-skilling", to out run not only human competitors, but also machine competition--yes the robots are coming! The burden of re-skilling often falls onto the shoulders workers, and this burden is often heightened in online labor markets (freelancing such as [Upwork](https://upwork.com), crowdsourcing such as [AMT](https://www.mturk.com/)) where workers often lack support systems more readily found in traditional jobs.
+The field of human-computer interaction (HCI) has traditionally focused on the design of information technology artifacts.
+However, the lack of sustainable considerations for maintenance and repair of these artifacts often hinders the populations they aim to support over the long term. Drawing on two multi-year programs for small-scale tech capacity building in post-industrial U.S. cities, this article presents a comparative analysis and retrospective ethnography to investigate the challenges and strategies for sustained community-based research in computing. In particular, our work aimed to better understand and contribute the necessary considerations and dynamics among the academic-community partnerships attributed to sustaining the community-based programs over time. We identify three key opportunities for fostering sustainability and being anticipatory rather than surprised by the twists and turns in our community-based research projects: relational (e.g., considerations of care, trust, and responsiveness alongside continual expectation setting), economic (e.g., leveraging research funding to kickstart long-term community programming), and technological (e.g., contextualized guidance on tech investments, embedded training on tech use). While opportunities for sustainability in community-based research have been referenced in prior work, findings from this unique and rare opportunity contribute concrete examples of two community-based engagements that were required to carry out such suggestions in the context of two tech capacity building programs. Such details often go unreported in scholarly articles yet are essential for sustainability considerations. We conclude with a discussion about ongoing challenges from this research and considerations for future work such as rethinking longevity (e.g., when longevity should and should not be the end goal).
 
 </div>
 ---
