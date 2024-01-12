@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). 
+### I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University, working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). 
 
 \\
 I received my Ph.D. from the HCII in 2022 and completed my dissertation, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/).
@@ -25,7 +25,9 @@ Projects and Publications
 
 <div class="projects-item">
 <div class="thumb">
+<center>
 <img src='images/peerdea.png' style="width:300px;">
+</center>
 </div>
 <div class="des" markdown="1">
 
@@ -131,30 +133,52 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 </div>
 ---
 
-<div class="project-label">
 
-Current and past supporters of my work:
+
+
+
+### Recent News:
+
+  <div class="item">
+    <ol><a target="_blank" href="https://risingstars.utexas.edu/profiles/yasmine-kotturi"><img src='/images/rising-star.png' width="150">  Grateful to be deemed an EECS Rising Star </a></ol>
+  </div>
+  <div class="item">
+    <ol><a target="_blank" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222719"><img src='/images/NSF.png' width="50" > Received NSF FW-HTF award with Nik Martelaro, Wendy Ju, and Laura Dabbish: Using Technology to Transform Makers into Creative Entrepreneurs</a></ol>
+  </div>
+  <div class="item">
+    <ol><a target="_blank" href="https://csd.cmu.edu/news/five-scs-students-named-siebel-scholars"><img src='/images/S_scholars_logo-color.jpeg' width="140">I received the Siebel Scholars award</a></ol>
+  </div>
+
+<br>
+
+<br>
+
+<div class="project-label">
+Thank you to the supporters of my work:
 </div>
 
 <div class="project-supporters">
 <div class="item">
-<img src='/images/insta-logo.png' width="75" >
+<img src='/images/NSF.png' width="100" >
 </div>
 
 <div class="item">
-<img src='/images/etsy-logo.png' width="100">
-</div>
-
-
-<div class="item">
-<img src='/images/onr-logo.png' width="150">
+<img src='/images/etsy-logo.png' width="105">
 </div>
 
 <div class="item">
-<img src='/images/S_scholars_logo-color.jpeg' width="300">
+<img src='/images/insta-logo.png' width="50" >
+</div>
+
+<div class="item">
+<img src='/images/onr-logo.png' width="125">
+</div>
+
+<div class="item">
+<img src='/images/S_scholars_logo-color.jpeg' width="200">
 </div>
 <div class="item">
-<img src='/images/waim.png' width="2000">
+<img src='/images/waim.png' >
 </div>
 </div>
 
