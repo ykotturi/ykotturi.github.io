@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-### I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University, working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). 
+## I build sociotechnical systems which uncover qualitative and longitudinal understandings of how workers and entrepreneurs from marginalized backgrounds acquire needed technical skills, create local support networks, and achieve their career aspirations. 
 
 \\
-I received my Ph.D. from the HCII in 2022 and completed my dissertation, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/).
+I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University, working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). I received my Ph.D. from the HCII in 2022 and completed my dissertation, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). <span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements.
+
+### Recent research questions I am investigating include:
+<li>What is the role of social support when onboarding local entrepreneurs to generative AI platforms and features?</li>
+<li>How do local entrepreneurs use (and prefer not to use) generative AI technologies for their business? What concerns do local entrepreneurs have when adopting generative AI in their business?</li>
 
 
-<span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements.
 
 
 ----
