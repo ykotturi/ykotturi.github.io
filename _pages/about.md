@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## I build sociotechnical systems which uncover qualitative and longitudinal understandings of how workers and entrepreneurs from marginalized backgrounds acquire needed technical skills, create local support networks, and achieve their career aspirations. 
+## My research aims to enable more inclusive futures of work by reconsidering how we build sociotechnical systems to use community-based approaches and ensuring marginalized workers and entrepreneurs have the needed digital and AI literacies to keep up with an everchanging labor market.
+
+<!-- ## I build sociotechnical systems which uncover qualitative and longitudinal understandings of how workers and entrepreneurs from marginalized backgrounds acquire needed technical skills, create local support networks, and achieve their career aspirations.  -->
 
 \\
 I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University, working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). I received my Ph.D. from the HCII in 2022 and completed my dissertation, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). <span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements.
