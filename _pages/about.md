@@ -142,7 +142,7 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
 
 
-### Recent News:
+### Recent awards and grants:
 
   <div class="item">
     <ol><a target="_blank" href="https://risingstars.utexas.edu/profiles/yasmine-kotturi"><img src='/images/rising-star.png' width="150">  Grateful to be deemed an EECS Rising Star </a></ol>
