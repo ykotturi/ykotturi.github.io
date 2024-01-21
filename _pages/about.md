@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## My research aims to enable more inclusive futures of work by reconsidering how we build sociotechnical systems to use community-based approaches and ensuring marginalized workers and entrepreneurs have the needed digital and AI literacies to keep up with an everchanging labor market.
+## My research aims to create more equitable futures of work by facilitating technical skill building and peer support among minority workers. To do so, my work reconsiders how we build sociotechnical systems to prioritize community-driven approaches.
 
 <!-- ## I build sociotechnical systems which uncover qualitative and longitudinal understandings of how workers and entrepreneurs from marginalized backgrounds acquire needed technical skills, create local support networks, and achieve their career aspirations.  -->
 
@@ -19,25 +19,70 @@ I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie
 <span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements.
 
 ### Research questions I am curently investigating include:
-<li>What is the role of social support when onboarding local entrepreneurs to generative AI platforms and features?</li>
 <li>How do local entrepreneurs use (and prefer not to use) generative AI technologies for their business? </li>
-<li>What concerns do local entrepreneurs have when adopting generative AI in their business?</li>
+<li>How might we build generative AI interfaces and systems to better support marginalized small business owners?</li>
+<li>What is the role of social support when onboarding local entrepreneurs to generative AI platforms and features?</li>
 
 
 
 
 ----
 <div class="project-label">
-
-Projects and Publications
+  Projects and Publications
 </div>
+
+
 
 <div class="projects-item">
-<div class="thumb">
-<center>
-<img src='images/peerdea.png' style="width:300px;">
-</center>
+  <div class="thumb">
+    <img src='images/community-forge1.png' style="width:300px;">
+  </div>
+<div class="des" markdown="1">
+
+
+### Deconstructing the Veneer of Simplicity: Co-Designing Introductory Generative AI Workshops with Local Entrepreneurs
+
+Yasmine Kotturi, Angel Anderson, Glenn Ford, Michael Skirpan, Jeffrey Bigham
+
+In this paper, we designed an interactive workshops series aimed to onboard local entrepreneurs to generative AI platforms for small business. We detail the importance of communal and supportive exposure to generative
+AI tools for local entrepreneurs, scaffolding actionable use (and supporting non-use), demystifying generative AI technologies by emphasizing entrepreneurial power, while simultaneously deconstructing the veneer of simplicity to address the many operational skills needed for successful application.
+
+CHI 2024
+
+ <div class="des-bar">
+   <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+   <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
+   <!-- <a href="#" class="copy-bib" id="copyBibLink"><i class="fas fa-copy"></i> <span>Copy BibTeX</span></a> -->
+   <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
+   <a href="/files/Kotturi_CHI_2024_Entrepreneurs_X_genAI_Revised.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+   <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+ </div>
 </div>
+</div>
+<div class="abstract-box">
+  Generative AI platforms and features are permeating many aspects of work. Entrepreneurs from lean economies in particular are well positioned to outsource tasks to generative AI given limited resources. In this paper, we work to address a growing disparity in use of these technologies by building on a four-year partnership with a local entrepreneurial hub dedicated to equity in tech and entrepreneurship. Together, we co-designed an interactive workshops series aimed to onboard local entrepreneurs to generative AI platforms. Alongside four community-driven and iterative workshops with entrepreneurs across five months, we conducted interviews with 15 local entrepreneurs and community providers. We detail the importance of communal and supportive exposure to generative AI tools for local entrepreneurs, scaffolding actionable use (and supporting non-use), demystifying generative AI technologies by emphasizing entrepreneurial power, while simultaneously deconstructing the veneer of simplicity to address the many operational skills needed for successful application.
+</div>
+
+<textarea id="bibtexText" style="opacity: 0; position: absolute; top: -9999px;">
+@article{kotturi2024generative,
+  title={Peerdea: Co-Designing a Peer Support Platform with Creative Entrepreneurs},
+  author={Kotturi, Yasmine and Yu, Jenny and Khadpe, Pranav, and Zheng, Harvey, and Gatz, Erin and Fox, Sarah E and Kulkarni, Chinmay},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={},
+  number={CSCW1},
+  pages={1--27},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}
+</textarea>
+
+
+----
+
+<div class="projects-item">
+  <div class="thumb">
+    <img src='images/peerdea.png' style="width:300px;">
+  </div>
 <div class="des" markdown="1">
 
 
@@ -52,7 +97,7 @@ CSCW 2024
  <div class="des-bar">
    <a href="https://peerdea.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
    <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
-   <a href="#" class="copy-bib" id="copyBibLink"><i class="fas fa-copy"></i> <span>Copy BibTeX</span></a>
+   <!-- <a href="#" class="copy-bib" id="copyBibLink"><i class="fas fa-copy"></i> <span>Copy BibTeX</span></a> -->
    <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
    <a href="/files/CSCW24_Co_Designing_a_Peer_Support_Platform_with_Creative_Entrepreneurs.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
    <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
@@ -79,7 +124,7 @@ CSCW 2024
 ----
 <div class="projects-item">
 <div class="thumb">
-<img src='images/community-forge1.png' style="width:300px;">
+<img src='images/tech-help-desk.png' style="width:300px;">
 </div>
 
 <div class="des" markdown="1">
@@ -94,7 +139,7 @@ CSCW 2024
 
 <div class="des-bar">
   <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
-  <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a>
+  <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
   <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
   <a href="/files/Kotturi_etal_CSCW_2024_SustainingCBPR.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <!-- <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a> -->
@@ -115,7 +160,7 @@ However, the lack of sustainable considerations for maintenance and repair of th
 
 <div class="projects-item">
 <div class="thumb">
-<img src='images/tech-help-desk.png' style="width:300px;">
+<img src='images/tech-help-desk1.png' style="width:300px;">
 </div>
 
 <div class="des" markdown="1">
@@ -130,7 +175,7 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
  
 <div class="des-bar">
   <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
-  <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a>
+  <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
   <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517708" target="_blank"><i class="fas fa-link"></i> Doi </a>
   <a href="/files/chi22b-sub2264-cam-i16.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
