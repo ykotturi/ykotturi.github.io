@@ -124,7 +124,7 @@ CSCW 2024
 ----
 <div class="projects-item">
 <div class="thumb">
-<img src='images/tech-help-desk.png' style="width:300px;">
+<img src='images/tech-help-desk3.png' style="width:300px;">
 </div>
 
 <div class="des" markdown="1">
@@ -160,7 +160,7 @@ However, the lack of sustainable considerations for maintenance and repair of th
 
 <div class="projects-item">
 <div class="thumb">
-<img src='images/tech-help-desk1.png' style="width:300px;">
+<img src='images/tech-help-desk.png' style="width:300px;">
 </div>
 
 <div class="des" markdown="1">
