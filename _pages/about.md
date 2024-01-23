@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## My research aims to create more equitable futures of work by facilitating technical skill building and peer support among minority workers. To do so, my work reconsiders how we build sociotechnical systems to prioritize community-driven approaches.
+## My research provides minority workers with technical skill building and social support. To do so, my work reconsiders how we build sociotechnical systems to prioritize community-driven approaches.
 
 <!-- ## I build sociotechnical systems which uncover qualitative and longitudinal understandings of how workers and entrepreneurs from marginalized backgrounds acquire needed technical skills, create local support networks, and achieve their career aspirations.  -->
 
@@ -20,7 +20,7 @@ I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie
 
 ### Research questions I am curently investigating include:
 <li>How do local entrepreneurs use (and prefer not to use) generative AI technologies for their business? </li>
-<li>How might we build generative AI interfaces and systems to better support marginalized small business owners?</li>
+<li>How might we build generative AI interfaces and systems to better support minority small business owners?</li>
 <li>What is the role of social support when onboarding local entrepreneurs to generative AI platforms and features?</li>
 
 
