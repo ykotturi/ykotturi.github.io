@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-## My research facilitates minority workers' technical "upskilling" and social support. To do so, my work reconsiders how we build sociotechnical systems to prioritize community-driven approaches.
+## My work focuses on how to design generative AI technologies and interfaces which help marginalized entrepreneurs sustain their small businesses.
+
+<!-- ## My research facilites marginalized workers'  I design and build sociotechnical systems which help marginalized entrepreneurs sustain small, creative businesses by ut -->
+
+<!-- research facilitates minority workers' technical "upskilling" and social support. To do so, my work reconsiders how we build sociotechnical systems to prioritize community-driven approaches. -->
 
 <!-- ## I build sociotechnical systems which uncover qualitative and longitudinal understandings of how workers and entrepreneurs from marginalized backgrounds acquire needed technical skills, create local support networks, and achieve their career aspirations.  -->
 
@@ -64,16 +68,7 @@ CHI 2024
 </div>
 
 <textarea id="bibtexText" style="opacity: 0; position: absolute; top: -9999px;">
-@article{kotturi2024generative,
-  title={Peerdea: Co-Designing a Peer Support Platform with Creative Entrepreneurs},
-  author={Kotturi, Yasmine and Yu, Jenny and Khadpe, Pranav, and Zheng, Harvey, and Gatz, Erin and Fox, Sarah E and Kulkarni, Chinmay},
-  journal={Proceedings of the ACM on Human-Computer Interaction},
-  volume={},
-  number={CSCW1},
-  pages={1--27},
-  year={2021},
-  publisher={ACM New York, NY, USA}
-}
+
 </textarea>
 
 
@@ -99,13 +94,24 @@ CSCW 2024
    <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
    <!-- <a href="#" class="copy-bib" id="copyBibLink"><i class="fas fa-copy"></i> <span>Copy BibTeX</span></a> -->
    <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
-   <a href="/files/CSCW24_Co_Designing_a_Peer_Support_Platform_with_Creative_Entrepreneurs.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+   <a href="/files/Kotturi_etal_CSCW24_Peerdea_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
    <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
  </div>
 </div>
 </div>
 <div class="abstract-box">
-  Creative entrepreneurs join makerspaces to build relationships with vetted and trustful peers over time. Yet, as makerspaces increasingly use social technologies to connect members online, such technological adoption is often incongruent with the unique needs of creative entrepreneurs such as safeguarding their reputation and intellectual property.  In this paper, we describe a multi-year partnership with a local feminist makerspace to build a social platform, called Peerdea, which centered creative entrepreneurs' needs such that online feedback and information exchange, and goal setting and accountability were more readily available to them.  Through an iterative, community-collaborative approach with 46 creative entrepreneurs, we report on the kinds of peer support entrepreneurs sought on Peerdea such as feedback on in-progress and unpolished work. We argue that by aligning the platform's design with the makerspace's community of practice, Peerdea leveraged the relationship and trust building which occurs more readily in-person for entrepreneurs. In addition, we highlight the role of a community mediator who actively managed the relationships between researchers and entrepreneurs, surfaced failures and championed successes, and overall provided a critical link for co-design when participants' livelihoods were implicated.
+Creative entrepreneurs rely on online platforms to build community in order to overcome isolated work
+conditions. However, because of frequent attempts by larger brands to use their work without permission,
+creative entrepreneurs constrain their use of social platforms in order to safeguard their intellectual property.
+In this paper, we describe a multi-year partnership with a feminist makerspace to build a social platform, called
+Peerdea, that centered creative entrepreneurs’ needs such that online feedback and information exchange, and goal setting and accountability were more readily available to them. Through an iterative, community-
+collaborative approach with 46 creative entrepreneurs, we report on the kinds of peer support entrepreneurs
+sought on Peerdea such as feedback on in-progress and unpolished work. We argue that by aligning Peerdea’s
+design with the makerspace’s community of practice, Peerdea leveraged the relationship and trust building
+which occurs more readily in person for entrepreneurs. In addition, we highlight the role of a community
+leader who actively managed the relationships between researchers and entrepreneurs, surfaced failures and
+championed successes, and provided critical mediation for co-design when participants’ livelihoods were
+implicated.
 </div>
 
 <textarea id="bibtexText" style="opacity: 0; position: absolute; top: -9999px;">
@@ -116,7 +122,7 @@ CSCW 2024
   volume={},
   number={CSCW1},
   pages={1--27},
-  year={2021},
+  year={2024},
   publisher={ACM New York, NY, USA}
 }
 </textarea>
@@ -131,17 +137,19 @@ CSCW 2024
 
 ### Sustaining Community-Based Research in Computing: Lessons from Two Tech Capacity Building Initiatives for Local Businesses
 
-Yasmine Kotturi, Julie Hui, TJ Johnson, Lutalo Sanifu, Tawanna Dillahunt
+Yasmine Kotturi, Julie Hui (shared first authorship), TJ Johnson, Lutalo Sanifu, Tawanna Dillahunt
 
 Drawing on two multi-year programs for small-scale tech capacity building in post-industrial U.S. cities, this article presents a comparative analysis and retrospective ethnography to investigate the challenges and strategies for sustained community-based research in computing. In particular, our work aimed to better understand and contribute the necessary considerations and dynamics among the academic-community partnerships attributed to sustaining the community-based programs over time.
 
 CSCW 2024
 
+
+
 <div class="des-bar">
   <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
   <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
-  <a href="/files/Kotturi_etal_CSCW_2024_SustainingCBPR.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="/files/Kotturi_Hui_etal_CSCW_2024_Future_Proofing_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <!-- <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a> -->
 </div>
 
@@ -150,8 +158,20 @@ CSCW 2024
 
 <div class="abstract-box">
 
-The field of human-computer interaction (HCI) has traditionally focused on the design of information technology artifacts.
-However, the lack of sustainable considerations for maintenance and repair of these artifacts often hinders the populations they aim to support over the long term. Drawing on two multi-year programs for small-scale tech capacity building in post-industrial U.S. cities, this article presents a comparative analysis and retrospective ethnography to investigate the challenges and strategies for sustained community-based research in computing. In particular, our work aimed to better understand and contribute the necessary considerations and dynamics among the academic-community partnerships attributed to sustaining the community-based programs over time. We identify three key opportunities for fostering sustainability and being anticipatory rather than surprised by the twists and turns in our community-based research projects: relational (e.g., considerations of care, trust, and responsiveness alongside continual expectation setting), economic (e.g., leveraging research funding to kickstart long-term community programming), and technological (e.g., contextualized guidance on tech investments, embedded training on tech use). While opportunities for sustainability in community-based research have been referenced in prior work, findings from this unique and rare opportunity contribute concrete examples of two community-based engagements that were required to carry out such suggestions in the context of two tech capacity building programs. Such details often go unreported in scholarly articles yet are essential for sustainability considerations. We conclude with a discussion about ongoing challenges from this research and considerations for future work such as rethinking longevity (e.g., when longevity should and should not be the end goal).
+The field of human-computer interaction (HCI) has traditionally focused on the design of novel technology
+artifacts. However, ensuring considerations for artifact maintenance and repair is crucial to sustainably
+supporting the populations they aim to serve over the long term. Drawing on two multi-year programs for
+tech capacity building in post-industrial U.S. cities, this article presents a comparative analysis to investigate
+the challenges and strategies for sustained community-based research in computing. In particular, our work
+detailed three considerations for academic-community partnerships. First, long-term partnerships prioritized
+transferring trust across academic and community personnel and continually set expectations that responded
+to evolving community initiatives (i.e., relational sustainability). Second, partnerships used academic support
+as a way to kickstart community initiatives, and flexibly reframed interventions to stay aligned with evolving
+community goals (i.e., economic sustainability). Third, partnerships trained personnel to provide technical
+support alongside interventions and prioritized advice that resisted short-term trends (i.e., technical sustain-
+ability). We provide concrete examples of how our two academic-community partnerships carried out such
+suggestions—such details go unreported in scholarly articles yet are essential for sustainability considerations.
+We discuss ongoing challenges, such as rethinking when longevity should and should not be the end goal.
 
 </div>
 ---
