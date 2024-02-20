@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, I work with local entreprneuers who use (and prefer not to use) generative AI technologies for their small, product-based businesses. To do so, I build long-term partnerships with community organizations and center community stakeholders throughout design processes. 
+## My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, I onboard local entrepreneurs to use generative AI technologies for their small, product-based businesses. 
 
 <!-- ## My research facilites marginalized workers'  I design and build sociotechnical systems which help marginalized entrepreneurs sustain small, creative businesses by ut -->
 
