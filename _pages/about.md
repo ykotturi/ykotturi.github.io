@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## My work focuses on how to design generative AI technologies and interfaces which help marginalized entrepreneurs sustain their small businesses.
+## My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, I work with local entreprneuers who use (and prefer not to use) generative AI technologies for their small, product-based businesses. To do so, I build long-term partnerships with community organizations and center community stakeholders throughout design processes. 
 
 <!-- ## My research facilites marginalized workers'  I design and build sociotechnical systems which help marginalized entrepreneurs sustain small, creative businesses by ut -->
 
@@ -150,7 +150,7 @@ CSCW 2024
   <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
   <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
   <a href="/files/Kotturi_Hui_etal_CSCW_2024_Future_Proofing_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
-  <!-- <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a> -->
+  <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
 </div>
 
 </div>
