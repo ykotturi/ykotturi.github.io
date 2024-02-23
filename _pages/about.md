@@ -137,7 +137,7 @@ implicated.
 
 ### Sustaining Community-Based Research in Computing: Lessons from Two Tech Capacity Building Initiatives for Local Businesses
 
-Yasmine Kotturi, Julie Hui (shared first authorship), TJ Johnson, Lutalo Sanifu, Tawanna Dillahunt
+Yasmine Kotturi and Julie Hui (shared first authorship), TJ Johnson, Lutalo Sanifu, Tawanna Dillahunt
 
 Drawing on two multi-year programs for small-scale tech capacity building in post-industrial U.S. cities, this article presents a comparative analysis and retrospective ethnography to investigate the challenges and strategies for sustained community-based research in computing. In particular, our work aimed to better understand and contribute the necessary considerations and dynamics among the academic-community partnerships attributed to sustaining the community-based programs over time.
 
