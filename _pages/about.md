@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, my research facilitates local entrepreneurs' use of generative AI technologies for their small, product-based businesses. 
+## I am an incoming Assistant Professor of Human-Centered Computing at University of Maryland, Baltimore County. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon, under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Check out my dissertation titled ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf). I was Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/) in the Human-Computer Interaction Institute at Carnegie Mellon University.
+
+<!-- My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, my research facilitates local entrepreneurs' use of generative AI technologies for their small, product-based businesses.  -->
 
 <!-- ## My research facilites marginalized workers'  I design and build sociotechnical systems which help marginalized entrepreneurs sustain small, creative businesses by ut -->
 
@@ -16,16 +18,16 @@ redirect_from:
 
 <!-- ## I build sociotechnical systems which uncover qualitative and longitudinal understandings of how workers and entrepreneurs from marginalized backgrounds acquire needed technical skills, create local support networks, and achieve their career aspirations.  -->
 
-\\
-I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie Mellon University, working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/). I completed my PhD at the HCII, ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf) under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). 
 
 
-<span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements.
+
+
+<!-- <span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements. -->
 
 ### Research questions I am curently investigating include:
-<li>How do local entrepreneurs use (and prefer not to use) generative AI technologies for their business? </li>
+<li>How do entrepreneurs use (and prefer not to use) generative AI technologies for their business? </li>
 <li>How might we build generative AI interfaces and systems to better support minority small business owners?</li>
-<li>What is the role of social support when onboarding local entrepreneurs to generative AI platforms and features?</li>
+<li>What is the role of social support when onboarding entrepreneurs to generative AI platforms and features?</li>
 
 
 
@@ -42,6 +44,9 @@ I am currently a postdoc in the Human-Computer Interaction Institute at Carnegie
     <img src='images/community-forge1.png' style="width:300px;">
   </div>
 <div class="des" markdown="1">
+
+
+
 
 
 ### Deconstructing the Veneer of Simplicity: Co-Designing Introductory Generative AI Workshops with Local Entrepreneurs
@@ -126,6 +131,43 @@ implicated.
   publisher={ACM New York, NY, USA}
 }
 </textarea>
+
+----
+<div class="projects-item">
+<div class="thumb">
+<img src='images/storyboard_26.png' style="width:300px;">
+</div>
+
+<div class="des" markdown="1">
+
+### Exploring the Role of Social Support when Integrating Generative AI in Small Business Workflows
+
+Quentin Romero Lauro, Jeffrey P. Bigham, Yasmine Kotturi
+
+We interviewed 11 entrepreneurs and support personnel to detail how entrepreneurs resourcefully leveraged their local networks to discover new use-cases of generative AI (e.g., by sharing accounts), assuage heightened techno-anxieties (e.g., by recruiting trusted confidants), overcome barriers to sustained use (e.g., by receiving wrap-around support), and establish boundaries of use.
+
+CSCW 2024 Poster
+
+
+<div class="des-bar">
+  <!-- <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a> -->
+  <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
+  <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
+  <a href="https://arxiv.org/pdf/2407.21404" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+</div>
+
+</div>
+</div>
+
+<div class="abstract-box">
+
+Small business owners stand to benefit from generative AI technologies due to limited resources, yet they must navigate increasing legal and ethical risks. In this paper, we interview 11 entrepreneurs and support personnel to investigate existing practices of how entrepreneurs integrate generative AI technologies into their business workflows. Specifically, we build on scholarship in HCI which emphasizes the role of small, offline networks in supporting entrepreneurs’ technology maintenance. We detail how entrepreneurs resourcefully leveraged their local networks to discover new use-cases of generative AI (e.g., by sharing accounts), assuage heightened techno-anxieties (e.g., by recruiting trusted confidants), overcome barriers to sustained use (e.g., by receiving wrap-around support), and establish boundaries of use. Further, we suggest how generative AI platforms may be redesigned to better support entrepreneurs, such as by taking into account the benefits and tensions
+of use in a social context.
+
+</div>
+---
+
 
 ----
 <div class="projects-item">
