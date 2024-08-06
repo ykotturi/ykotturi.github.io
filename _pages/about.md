@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## I am an incoming Assistant Professor of Human-Centered Computing at University of Maryland, Baltimore County. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon, under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). Check out my dissertation titled ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf). I was Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/) in the Human-Computer Interaction Institute at Carnegie Mellon University.
+## I am an incoming Assistant Professor of Human-Centered Computing at University of Maryland, Baltimore County. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon, under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). More recently, I was Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/) in the Human-Computer Interaction Institute at Carnegie Mellon University.
 
 <!-- My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, my research facilitates local entrepreneurs' use of generative AI technologies for their small, product-based businesses.  -->
 
@@ -19,7 +19,7 @@ redirect_from:
 <!-- ## I build sociotechnical systems which uncover qualitative and longitudinal understandings of how workers and entrepreneurs from marginalized backgrounds acquire needed technical skills, create local support networks, and achieve their career aspirations.  -->
 
 
-
+<!-- Check out my dissertation titled ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf). -->
 
 
 <!-- <span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements. -->
