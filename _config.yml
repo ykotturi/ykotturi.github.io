@@ -16,7 +16,7 @@ locale                   : "en-US"
 title                    : "Yasmine Kotturi, Ph.D." #deleted from masterhead.html to remove redundancy
 title_separator          : "-"
 name                     : &name "Yasmine Kotturi, Ph.D."
-description              : &description "Human-Computer Interaction, Carnegie Mellon Univesity"
+description              : &description "Human-Centered Computing, University of Maryland, Baltimore County"
 url                      : https://ykotturi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ykotturi/ykotturi.github.io"
