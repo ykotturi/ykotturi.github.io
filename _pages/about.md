@@ -23,12 +23,12 @@ redirect_from:
 
 
 <span style="background-color: yellow">I am recruiting a PhD student to start Fall 2025. If interested, please apply to the <a href="https://hcc.umbc.edu/phd/" target="_blank">HCC PhD program at UMBC</a>! 
-
+<!-- 
 ### Research questions I am curently investigating include:
 <li>How do entrepreneurs use (and prefer not to use) generative AI technologies for their business? </li>
 <li>How might we build generative AI interfaces and systems to better support minority small business owners?</li>
 <li>What is the role of social support when onboarding entrepreneurs to generative AI platforms and features?</li>
-
+ -->
 
 
 
