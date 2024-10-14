@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## I am an incoming <span style="background-color: yellow">Assistant Professor of Human-Centered Computing in the Information Systems Department at University of Maryland, Baltimore County</span>. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University, under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). More recently, I was Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/), also at Carnegie Mellon University.
+### I am an <span style="background-color: yellow">Assistant Professor of Human-Centered Computing at University of Maryland, Baltimore County</span>. My work focuses on human-centered AI and the futures of work and entrepreneurship. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University, under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). More recently, I was Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/), also at Carnegie Mellon University.
 
 <!-- My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, my research facilitates local entrepreneurs' use of generative AI technologies for their small, product-based businesses.  -->
 
@@ -22,7 +22,7 @@ redirect_from:
 <!-- Check out my dissertation titled ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf). -->
 
 
-<!-- <span style="background-color: yellow">I am on the job market!</span> Check out my [Research](/files/Kotturi_Research_Statement.pdf), [Teaching](/files/Kotturi_Teaching_Statement.pdf), and [Diversity](/files/Kotturi_Diversity_Statement.pdf) statements. -->
+<span style="background-color: yellow">I am recruiting a PhD student to start Fall 2025. If interested, please apply to the <a href="https://hcc.umbc.edu/phd/" target="_blank">HCC PhD program at UMBC</a>! 
 
 ### Research questions I am curently investigating include:
 <li>How do entrepreneurs use (and prefer not to use) generative AI technologies for their business? </li>
