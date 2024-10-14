@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="student-container">
   <div class="student-item">
-    <a href="[STUDENT_WEBSITE_URL]" target="_blank">
+    <a href="https://www.linkedin.com/in/kaoru-seki415/" target="_blank">
       <img src="images/kaoru-seki.jpg" alt="Kaoru Seki" class="student-photo">
       <h3 class="student-name">Kaoru Seki</h3>
     </a>
