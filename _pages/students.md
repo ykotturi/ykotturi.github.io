@@ -5,13 +5,22 @@ permalink: /students/
 author_profile: true
 ---
 
+
+
 <div class="student-container">
+   <div class="student-item">
+    <a href="https://quentinromerolauro.com/" target="_blank">
+      <img src="/images/quentin-romero-lauro.jpg" alt="Quentin Romero Lauro" class="student-photo">
+      <h3 class="student-name">Quentin Romero Lauro</h3>
+    </a>
+    <p class="student-degree">BS Computer Science '25, University of Pittsburgh</p>
+  </div>
   <div class="student-item">
     <a href="https://www.linkedin.com/in/kaoru-seki415/" target="_blank">
-      <img src="images/kaoru-seki.jpg" alt="Kaoru Seki" class="student-photo">
+      <img src="/images/kaoru-seki.jpg" alt="Kaoru Seki" class="student-photo">
       <h3 class="student-name">Kaoru Seki</h3>
     </a>
-    <p class="student-degree">MS Student, Human-Centered Computing</p>
+    <p class="student-degree">MS Human-Centered Computing '25 <br> University of Maryland, Baltimore County</p>
   </div>
 </div>
 
