@@ -13,7 +13,7 @@ author_profile: true
       <img src="/images/quentin-romero-lauro.jpg" alt="Quentin Romero Lauro" class="student-photo">
       <h3 class="student-name">Quentin Romero Lauro</h3>
     </a>
-    <p class="student-degree">BS Computer Science '25, University of Pittsburgh</p>
+    <p class="student-degree">BS Computer Science '26, University of Pittsburgh</p>
   </div>
   <div class="student-item">
     <a href="https://www.linkedin.com/in/kaoru-seki415/" target="_blank">
