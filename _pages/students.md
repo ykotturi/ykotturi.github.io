@@ -20,7 +20,14 @@ author_profile: true
       <img src="/images/kaoru-seki.jpg" alt="Kaoru Seki" class="student-photo">
       <h3 class="student-name">Kaoru Seki</h3>
     </a>
-    <p class="student-degree">MS Human-Centered Computing '25 <br> University of Maryland, Baltimore County</p>
+    <p class="student-degree">MS Human-Centered Computing '25 <br> University of Maryland, <br>  Baltimore County</p>
+  </div>
+  <div class="student-item">
+    <a href="https://mvijay1.wixsite.com/my-site-1" target="_blank">
+      <img src="/images/manisha-vijay.jpg" alt="Manisha Vijay" class="student-photo">
+      <h3 class="student-name">Manisha Vijay</h3>
+    </a>
+    <p class="student-degree">MS Human-Centered Computing '26, <br> University of Maryland, <br> Baltimore County</p>
   </div>
 </div>
 
