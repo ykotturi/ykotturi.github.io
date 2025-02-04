@@ -27,7 +27,7 @@ author_profile: true
       <img src="/images/manisha-vijay.jpg" alt="Manisha Vijay" class="student-photo">
       <h3 class="student-name">Manisha Vijay</h3>
     </a>
-    <p class="student-degree">MS Human-Centered Computing '26, <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-degree">BS Information Systems '25, <br> University of Maryland, <br> Baltimore County</p>
   </div>
 </div>
 
