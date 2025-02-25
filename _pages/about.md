@@ -277,6 +277,11 @@ Thank you to the supporters of my work:
 </div>
 
 <div class="project-supporters">
+
+<div class="item">
+<img src='/images/UMBC-seal.png' width="100" >
+</div>
+
 <div class="item">
 <img src='/images/NSF.png' width="100" >
 </div>
