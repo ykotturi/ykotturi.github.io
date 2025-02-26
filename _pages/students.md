@@ -16,7 +16,7 @@ author_profile: true
     <p class="student-degree">BS Computer Science '26, University of Pittsburgh</p>
   </div>
   <div class="student-item">
-    <a href="https://www.linkedin.com/in/kaoru-seki415/" target="_blank">
+    <a href="https://www.kaoruseki.com/" target="_blank">
       <img src="/images/kaoru-seki.jpg" alt="Kaoru Seki" class="student-photo">
       <h3 class="student-name">Kaoru Seki</h3>
     </a>
