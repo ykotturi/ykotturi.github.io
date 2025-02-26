@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <div style="text-align: center; padding: 20px; margin: 20px 0; background-color: #f8f9fa; border-radius: 4px;">
-  <p>🚧 This page is currently under construction. Please check back soon! 🚧</p>
-  <p>In the meantime, you can view my publications on Google Scholar.</p>
+  <p>For my latest publications, please check out my <a href="https://scholar.google.com/citations?user=MWlEp18AAAAJ" target="_blank">Google Scholar profile</a>.</p>
 </div>
 
 <!-- {% if author.googlescholar %}

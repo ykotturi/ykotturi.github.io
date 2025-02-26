@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### I am an Assistant Professor of Human-Centered Computing at University of Maryland, Baltimore County. My work focuses on human-centered AI, the future of work, and community-engaged research. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University, under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). More recently, I was Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/), also at Carnegie Mellon University.
+### I am an Assistant Professor of Human-Centered Computing at University of Maryland, Baltimore County. My work focuses on human-centered AI, the future of work, and community-engaged research. As faculty, my ultimate goal is to support worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University, under the supervision of [Chinmay Kulkarni](https://www.cs.cmu.edu/~chinmayk/). More recently, I was a Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/), also at Carnegie Mellon University.
 
 <!-- My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, my research facilitates local entrepreneurs' use of generative AI technologies for their small, product-based businesses.  -->
 
@@ -22,7 +22,7 @@ redirect_from:
 <!-- Check out my dissertation titled ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf). -->
 
 
-<span style="background-color: yellow">I am recruiting a PhD student to start Fall 2025. If interested, please apply to the <a href="https://hcc.umbc.edu/phd/" target="_blank">HCC PhD program at UMBC</a>! 
+<span style="background-color: yellow">I am recruiting 1-2 PhD students to start Fall 2025. If interested, please apply to the <a href="https://hcc.umbc.edu/phd/" target="_blank">HCC PhD program at UMBC</a>! 
 
 <!--  ### Research questions I am curently investigating include: -->
 <!-- <li>How do entrepreneurs use (and prefer not to use) generative AI technologies for their business? </li> -->
@@ -171,7 +171,7 @@ of use in a social context.
 ----
 <div class="projects-item">
 <div class="thumb">
-<img src='images/tech-help-desk3.png' style="width:300px;">
+<img src='images/tech-help-desk3.jpg' style="width:300px;">
 </div>
 
 <div class="des" markdown="1">
