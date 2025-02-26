@@ -256,7 +256,7 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
  
   <div class="item">
-    <ol><a target="_blank" href="https://calt.umbc.edu/academic-innovation-competition/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC Hrabowski Fund for Pedagogy Innovation as PI: Student-Driven Policy for Integrating Generative AI in a Design Classroom</a></ol>
+    <ol><a target="_blank" href="https://calt.umbc.edu/academic-innovation-competition/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC President Hrabowski Fund for Pedagogy Innovation as PI: Student-Driven Policy for Integrating Generative AI in a Design Classroom</a></ol>
   </div>
   <div class="item">
     <ol><a target="_blank" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222719"><img src='/images/NSF.png' width="50" > Received NSF FW-HTF award as CO-PI with Nik Martelaro, Wendy Ju, and Laura Dabbish: Using Technology to Transform Makers into Creative Entrepreneurs</a></ol>
