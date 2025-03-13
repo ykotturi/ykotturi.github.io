@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### I am an Assistant Professor of Human-Centered Computing at University of Maryland, Baltimore County. My work focuses on human-centered AI, the future of work, and community-engaged research. As faculty, my ultimate goal is to support worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University, under the supervision of [Chinmay Kulkarni](https://www.linkedin.com/in/chinmayk/). More recently, I was a Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/), also at Carnegie Mellon University.
+### I am an Assistant Professor of [Human-Centered Computing](https://hcc.umbc.edu/){:target="_blank"} at University of Maryland, Baltimore County in the Information Systems Department. I am also an Affiliate Asst Prof in the Department of Computer Science and Electrical Engineering (CSEE). My work focuses on human-centered AI, the future of work, and community-engaged research, particularly with the goal of supporting worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University, under the supervision of [Chinmay Kulkarni](https://www.linkedin.com/in/chinmayk/){:target="_blank"}. More recently, I was a Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/){:target="_blank"}, also at Carnegie Mellon University.
 
 <!-- My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, my research facilitates local entrepreneurs' use of generative AI technologies for their small, product-based businesses.  -->
 
@@ -33,7 +33,7 @@ redirect_from:
 
 ----
 <div class="project-label">
-  Projects and Publications
+  Selected Projects and Publications
 </div>
 
 
