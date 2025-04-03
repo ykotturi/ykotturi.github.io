@@ -254,7 +254,9 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
 ### Recent awards and grants:
 
- 
+  <div class="item">
+    <ol><a target="_blank" href="https://www.faspe-ethics.org/2025-fellows/"><img src='/images/faspe_logo.jpg' width="50" > Honored to be selected as a 2025 FASPE Design and Technology Fellow!</a></ol>
+  </div>
   <div class="item">
     <ol><a target="_blank" href="https://calt.umbc.edu/academic-innovation-competition/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC President Hrabowski Fund for Pedagogy Innovation as PI: Student-Driven Policy for Integrating Generative AI in a Design Classroom</a></ol>
   </div>
