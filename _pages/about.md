@@ -22,7 +22,7 @@ redirect_from:
 <!-- Check out my dissertation titled ["Community-Based Approaches to Building Peer Support Systems for Work"](https://ykotturi.github.io/files/ykotturi-hci-phd-2022.pdf). -->
 
 
-<span style="background-color: yellow">I am recruiting 1-2 PhD students to start Fall 2025. If interested, please apply to the <a href="https://hcc.umbc.edu/phd/" target="_blank">HCC PhD program at UMBC</a>! 
+<!-- <span style="background-color: yellow">I am recruiting 1-2 PhD students to start Fall 2025. If interested, please apply to the <a href="https://hcc.umbc.edu/phd/" target="_blank">HCC PhD program at UMBC</a>!  -->
 
 <!--  ### Research questions I am curently investigating include: -->
 <!-- <li>How do entrepreneurs use (and prefer not to use) generative AI technologies for their business? </li> -->
@@ -36,7 +36,32 @@ redirect_from:
   Selected Projects and Publications
 </div>
 
+<div class="projects-item">
+  <div class="thumb" style="display: flex; align-items: center; justify-content: center;">
+    <img src='/images/bizchat-interface.png' style="width:360px;">
+  </div>
+<div class="des" markdown="1">
 
+### BizChat: Scaffolding AI-Powered Business Planning for Small Business Owners Across Digital Skill Levels
+
+Quentin Romero Lauro, Aakash Gautum, Yasmine Kotturi
+
+In this demo, we introduce BizChat, an AI-powered web application designed to help small business owners complete tedious yet essential back-office tasks (e.g., writing a business plan). Drawing from learning sciences, BizChat provides accessible, just-in-time support tailored to users' digital skills and business goals.
+
+CHIWORK Demo 2025
+
+<div class="des-bar">
+  <a href="https://bizchat-io.vercel.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="/files/CHI_WORK_Demo_2025_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
+</div>
+</div>
+</div>
+<div class="abstract-box">
+Generative AI can help small business owners automate tasks, increase efficiency, and improve their bottom line. However, despite the seemingly intuitive design of systems like ChatGPT, significant barriers remain for those less comfortable with technology. To address these disparities, prior work highlights accessory skills—beyond prompt engineering—users must master to successfully adopt generative AI including keyboard shortcuts, editing skills, file conversions, and browser literacy. Building on a design workshop series and 15 interviews with small businesses, we introduce BizChat, a large language model (LLM)-powered web application that helps business owners across digital skills levels write their business plan—an essential but often neglected document. To do so, BizChat's interface embodies three design considerations inspired by learning sciences: ensuring accessibility to users with less digital skills while maintaining extensibility to power users ("low-floor-high-ceiling"), providing in situ micro-learning to support entrepreneurial education ("just-in-time learning"), and framing interaction around business activities ("contextualized technology introduction"). We conclude with plans for a future BizChat deployment. 
+</div>
+
+----
 
 <div class="projects-item">
   <div class="thumb">
@@ -108,13 +133,13 @@ Creative entrepreneurs rely on online platforms to build community in order to o
 conditions. However, because of frequent attempts by larger brands to use their work without permission,
 creative entrepreneurs constrain their use of social platforms in order to safeguard their intellectual property.
 In this paper, we describe a multi-year partnership with a feminist makerspace to build a social platform, called
-Peerdea, that centered creative entrepreneurs’ needs such that online feedback and information exchange, and goal setting and accountability were more readily available to them. Through an iterative, community-
+Peerdea, that centered creative entrepreneurs' needs such that online feedback and information exchange, and goal setting and accountability were more readily available to them. Through an iterative, community-
 collaborative approach with 46 creative entrepreneurs, we report on the kinds of peer support entrepreneurs
-sought on Peerdea such as feedback on in-progress and unpolished work. We argue that by aligning Peerdea’s
-design with the makerspace’s community of practice, Peerdea leveraged the relationship and trust building
+sought on Peerdea such as feedback on in-progress and unpolished work. We argue that by aligning Peerdea's
+design with the makerspace's community of practice, Peerdea leveraged the relationship and trust building
 which occurs more readily in person for entrepreneurs. In addition, we highlight the role of a community
 leader who actively managed the relationships between researchers and entrepreneurs, surfaced failures and
-championed successes, and provided critical mediation for co-design when participants’ livelihoods were
+championed successes, and provided critical mediation for co-design when participants' livelihoods were
 implicated.
 </div>
 
@@ -161,7 +186,7 @@ CSCW 2024 Poster
 
 <div class="abstract-box">
 
-Small business owners stand to benefit from generative AI technologies due to limited resources, yet they must navigate increasing legal and ethical risks. In this paper, we interview 11 entrepreneurs and support personnel to investigate existing practices of how entrepreneurs integrate generative AI technologies into their business workflows. Specifically, we build on scholarship in HCI which emphasizes the role of small, offline networks in supporting entrepreneurs’ technology maintenance. We detail how entrepreneurs resourcefully leveraged their local networks to discover new use-cases of generative AI (e.g., by sharing accounts), assuage heightened techno-anxieties (e.g., by recruiting trusted confidants), overcome barriers to sustained use (e.g., by receiving wrap-around support), and establish boundaries of use. Further, we suggest how generative AI platforms may be redesigned to better support entrepreneurs, such as by taking into account the benefits and tensions
+Small business owners stand to benefit from generative AI technologies due to limited resources, yet they must navigate increasing legal and ethical risks. In this paper, we interview 11 entrepreneurs and support personnel to investigate existing practices of how entrepreneurs integrate generative AI technologies into their business workflows. Specifically, we build on scholarship in HCI which emphasizes the role of small, offline networks in supporting entrepreneurs' technology maintenance. We detail how entrepreneurs resourcefully leveraged their local networks to discover new use-cases of generative AI (e.g., by sharing accounts), assuage heightened techno-anxieties (e.g., by recruiting trusted confidants), overcome barriers to sustained use (e.g., by receiving wrap-around support), and establish boundaries of use. Further, we suggest how generative AI platforms may be redesigned to better support entrepreneurs, such as by taking into account the benefits and tensions
 of use in a social context.
 
 </div>
@@ -230,7 +255,7 @@ We discuss ongoing challenges, such as rethinking when longevity should and shou
 
 Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy Pavel
 
- Even entrepreneurs whose businesses are not technological (e.g., handmade goods) need to be able to use a wide range of computing technologies in order to achieve their business goals. In this paper, we follow a participatory action research approach and collaborate with various stakeholders at an entrepreneurial co-working space to design “Tech Help Desk”, an on-going technical service for entrepreneurs, which has been running for over four years.
+ Even entrepreneurs whose businesses are not technological (e.g., handmade goods) need to be able to use a wide range of computing technologies in order to achieve their business goals. In this paper, we follow a participatory action research approach and collaborate with various stakeholders at an entrepreneurial co-working space to design "Tech Help Desk", an on-going technical service for entrepreneurs, which has been running for over four years.
 
  CHI 2022
  
@@ -244,7 +269,7 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 </div>
 </div>
 <div class="abstract-box">
-  Even entrepreneurs whose businesses are not technological (e.g., handmade goods) need to be able to use a wide range of computing technologies in order to achieve their business goals. In this paper, we follow a participatory action research approach and collaborate with various stakeholders at an entrepreneurial co-working space to design “Tech Help Desk”, an on-going technical service for entrepreneurs. Our model for technical assistance is strategic, in how it is designed to fit the context of local entrepreneurs, and responsive, in how it prioritizes emergent needs. From our engagements with 19 entrepreneurs and support personnel, we reflect on the challenges with existing technology support for non-technological entrepreneurs. Our work highlights the importance of ensuring technological support services can adapt based on entrepreneurs’ ever-evolving priorities, preferences and constraints. Furthermore, we find technological support services should maintain broad technical support for entrepreneurs’ long tail of computing challenges.
+  Even entrepreneurs whose businesses are not technological (e.g., handmade goods) need to be able to use a wide range of computing technologies in order to achieve their business goals. In this paper, we follow a participatory action research approach and collaborate with various stakeholders at an entrepreneurial co-working space to design "Tech Help Desk", an on-going technical service for entrepreneurs. Our model for technical assistance is strategic, in how it is designed to fit the context of local entrepreneurs, and responsive, in how it prioritizes emergent needs. From our engagements with 19 entrepreneurs and support personnel, we reflect on the challenges with existing technology support for non-technological entrepreneurs. Our work highlights the importance of ensuring technological support services can adapt based on entrepreneurs' ever-evolving priorities, preferences and constraints. Furthermore, we find technological support services should maintain broad technical support for entrepreneurs' long tail of computing challenges.
 </div>
 ---
 
@@ -255,13 +280,16 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 ### Recent awards and grants:
 
   <div class="item">
+    <ol><a target="_blank" href="https://entrepreneurship.umbc.edu/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC Commercialization & ENTR REsearch (CENTRE) Award as PI: Sustaining Community-Driven AI: A Civic Commercialization Approach for BizChat (2025-2026)</a></ol>
+  </div>
+  <div class="item">
     <ol><a target="_blank" href="https://www.faspe-ethics.org/2025-fellows/"><img src='/images/faspe_logo.jpg' width="50" > Honored to be selected as a 2025 FASPE Design and Technology Fellow!</a></ol>
   </div>
   <div class="item">
-    <ol><a target="_blank" href="https://calt.umbc.edu/academic-innovation-competition/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC President Hrabowski Fund for Pedagogy Innovation as PI: Student-Driven Policy for Integrating Generative AI in a Design Classroom</a></ol>
+    <ol><a target="_blank" href="https://calt.umbc.edu/academic-innovation-competition/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC President Hrabowski Fund for Pedagogy Innovation as PI: Student-Driven Policy for Integrating Generative AI in a Design Classroom (2024-2025)</a></ol>
   </div>
   <div class="item">
-    <ol><a target="_blank" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222719"><img src='/images/NSF.png' width="50" > Received NSF FW-HTF award as CO-PI with Nik Martelaro, Wendy Ju, and Laura Dabbish: Using Technology to Transform Makers into Creative Entrepreneurs</a></ol>
+    <ol><a target="_blank" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222719"><img src='/images/NSF.png' width="50" > Received NSF FW-HTF award as CO-PI with Nik Martelaro, Wendy Ju, and Laura Dabbish: Using Technology to Transform Makers into Creative Entrepreneurs (2022-2023)</a></ol>
   </div>
    <div class="item">
     <ol><a target="_blank" href="https://risingstars.utexas.edu/profiles/yasmine-kotturi"><img src='/images/rising-star.png' width="150">  Grateful to be deemed an EECS Rising Star </a></ol>
