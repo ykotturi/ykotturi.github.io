@@ -1,14 +1,31 @@
 ---
 layout: single
-title: "Students"
+title: "PhD Students"
 permalink: /students/
 author_profile: true
 ---
 
+<div class="student-container">
+  <div class="student-item">
+    <a href="https://www.linkedin.com/in/marjory-pineda-b99b9b219/" target="_blank">
+      <img src="/images/Marjory_Pineda_headshot.jpg" alt="Marjory Pineda" class="student-photo">
+      <h3 class="student-name">Marjory Pineda</h3>
+    </a>
+    <p class="student-degree">PhD Human-Centered Computing '29 <br> University of Maryland, <br> Baltimore County</p>
+  </div>
+  <div class="student-item">
+    <a href="https://www.linkedin.com/in/zqhdu2019/" target="_blank">
+      <img src="/images/qi-zhao.jpg" alt="Qi Zhao" class="student-photo">
+      <h3 class="student-name">Qi Zhao</h3>
+    </a>
+    <p class="student-degree">PhD Human-Centered Computing '30 <br> University of Maryland, <br> Baltimore County</p>
+  </div>
+</div>
 
+<div style="width: 100%; height: 1px; background-color: #ccc; margin: 40px 0;"></div>
 
 <div class="student-container">
-   <div class="student-item">
+  <div class="student-item">
     <a href="https://quentinromerolauro.com/" target="_blank">
       <img src="/images/quentin-romero-lauro.jpg" alt="Quentin Romero Lauro" class="student-photo">
       <h3 class="student-name">Quentin Romero Lauro</h3>
