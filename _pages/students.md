@@ -46,6 +46,13 @@ author_profile: true
     </a>
     <p class="student-degree">BS Information Systems '25, <br> University of Maryland, <br> Baltimore County</p>
   </div>
+  <div class="student-item">
+    <a href="https://www.linkedin.com/in/ketul-chhaya/" target="_blank">
+      <img src="/images/ketul.jpg" alt="Ketul Chhaya" class="student-photo">
+      <h3 class="student-name">Ketul Chhaya</h3>
+    </a>
+    <p class="student-degree">MS Computer Science '26, <br> University of Maryland, <br> Baltimore County</p>
+  </div>
 </div>
 
 <style>

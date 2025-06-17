@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-### I am an Assistant Professor of [Human-Centered Computing](https://hcc.umbc.edu/){:target="_blank"} at University of Maryland, Baltimore County in the Information Systems Department. I am also an Affiliate Asst Prof in the Department of Computer Science and Electrical Engineering (CSEE). My work focuses on human-centered AI, the future of work, and community-engaged research, particularly with the goal of supporting worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University, under the supervision of [Chinmay Kulkarni](https://www.linkedin.com/in/chinmayk/){:target="_blank"}. More recently, I was a Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/){:target="_blank"}, also at Carnegie Mellon University.
+### I am an Assistant Professor of [Human-Centered Computing](https://hcc.umbc.edu/){:target="_blank"} at University of Maryland, Baltimore County in the Information Systems Department. I am also an Affiliate Faculty in the Department of Computer Science and Electrical Engineering. My work focuses on human-centered AI, the future of work, and community-engaged research, particularly with the goal of supporting worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University. 
+
+<!-- , under the supervision of [Chinmay Kulkarni](https://www.linkedin.com/in/chinmayk/){:target="_blank"}. More recently, I was a Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/){:target="_blank"}, also at Carnegie Mellon University. -->
 
 <!-- My work focuses on how to design generative AI interfaces to support users with diverse digital literacy needs. Specifically, my research facilitates local entrepreneurs' use of generative AI technologies for their small, product-based businesses.  -->
 
@@ -279,6 +281,10 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
 ### Recent awards and grants:
 
+  
+  <div class="item">
+    <ol><a target="_blank" href="https://entrepreneurship.umbc.edu/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC Eileen and Jerry Carroll Faculty Research Award as Co-PI: Design Commons Lab: Technical and Design Skill Building with Entrepreneurs and Residents in Baltimore City (2025-2026)</a></ol>
+  </div>
   <div class="item">
     <ol><a target="_blank" href="https://entrepreneurship.umbc.edu/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC Commercialization & ENTR REsearch (CENTRE) Award as PI: Sustaining Community-Driven AI: A Civic Commercialization Approach for BizChat (2025-2026)</a></ol>
   </div>
