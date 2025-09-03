@@ -318,7 +318,7 @@ Thank you to the supporters of my work:
 <div class="project-supporters">
 
 <div class="item">
-<img src='/images/CRA-logo.png' width="100" >
+<img src='/images/cra-logo.png' width="100" >
 </div>
 
 <div class="item">

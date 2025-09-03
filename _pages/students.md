@@ -40,11 +40,11 @@ author_profile: true
     <p class="student-degree">MS Human-Centered Computing '25 <br> University of Maryland, <br>  Baltimore County</p>
   </div>
   <div class="student-item">
-    <a href="https://mvijay1.wixsite.com/my-site-1" target="_blank">
+    <a href="https://mvijay1.wixsite.com/mysite" target="_blank">
       <img src="/images/manisha-vijay.jpg" alt="Manisha Vijay" class="student-photo">
       <h3 class="student-name">Manisha Vijay</h3>
     </a>
-    <p class="student-degree">BS Information Systems '25, <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-degree">MS Human-Centered Computing '27, <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
     <a href="https://www.linkedin.com/in/ketul-chhaya/" target="_blank">
@@ -52,6 +52,13 @@ author_profile: true
       <h3 class="student-name">Ketul Chhaya</h3>
     </a>
     <p class="student-degree">MS Computer Science '26, <br> University of Maryland, <br> Baltimore County</p>
+  </div>
+  <div class="student-item">
+    <a href="https://www.linkedin.com/in/aasmita-bhattacharya/" target="_blank">
+      <img src="/images/aasmita-headshot.jpg" alt="Aasmita Bhattacharya headshot" class="student-photo">
+      <h3 class="student-name">Aasmita Bhattacharya</h3>
+    </a>
+    <p class="student-degree">MS Human-Centered Computing '26, <br> University of Maryland, <br> Baltimore County</p>
   </div>
 </div>
 
