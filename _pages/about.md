@@ -283,7 +283,7 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
 
   <div class="item">
-    <ol><a target="_blank" href="https://cra.org/cra-and-microsoft-announce-inaugural-cohort-of-cra-trustworthy-ai-research-fellows/"><img src='/images/CRA-logo.png' width="50" > Honored to be a CRA Trustworthy AI fellow in the inaugural cohort 2025-2026! </a></ol>
+    <ol><a target="_blank" href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/"><img src='/images/cra-logo.png' width="50" > Honored to be a CRA Trustworthy AI fellow in the inaugural cohort 2025-2026! </a></ol>
   </div> 
   <div class="item">
     <ol><a target="_blank" href="https://entrepreneurship.umbc.edu/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC Eileen and Jerry Carroll Faculty Research Award as Co-PI: Design Commons Lab: Technical and Design Skill Building with Entrepreneurs and Residents in Baltimore City (2025-2026)</a></ol>
