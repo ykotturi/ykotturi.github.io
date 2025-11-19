@@ -47,7 +47,7 @@ author_profile: true
     <p class="student-degree">MS Human-Centered Computing '27, <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
-    <a href="https://www.linkedin.com/in/ketul-chhaya/" target="_blank">
+    <a href="https://ketulchhaya.com" target="_blank">
       <img src="/images/ketul.jpg" alt="Ketul Chhaya" class="student-photo">
       <h3 class="student-name">Ketul Chhaya</h3>
     </a>
