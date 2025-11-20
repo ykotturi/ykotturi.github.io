@@ -14,7 +14,7 @@ author_profile: true
     <p class="student-degree">PhD Human-Centered Computing '29 <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
-    <a href="https://www.linkedin.com/in/zqhdu2019/" target="_blank">
+    <a href="https://qizhao-umbc.github.io/" target="_blank">
       <img src="/images/qi-zhao.jpg" alt="Qi Zhao" class="student-photo">
       <h3 class="student-name">Qi Zhao</h3>
     </a>
