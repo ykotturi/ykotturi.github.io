@@ -60,6 +60,13 @@ author_profile: true
     </a>
     <p class="student-degree">MS Human-Centered Computing '26, <br> University of Maryland, <br> Baltimore County</p>
   </div>
+  <div class="student-item">
+    <a href="https://portfolio-blush-psi-34.vercel.app/" target="_blank">
+      <img src="/images/saumya-headshot.webp" alt="Saumya Brahmbhatt headshot" class="student-photo">
+      <h3 class="student-name">Saumya Brahmbhatt</h3>
+    </a>
+    <p class="student-degree">BS Computer Science, '27 <br> University of Maryland, <br> Baltimore County</p>
+  </div>
 </div>
 
 <style>
