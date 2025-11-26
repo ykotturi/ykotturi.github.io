@@ -22,8 +22,9 @@ author_profile: true
   </div>
 </div>
 
-<div style="width: 100%; height: 1px; background-color: #ccc; margin: 40px 0;"></div>
 
+<h2>Undergraduate and Masters Students</h2>
+<div style="margin-bottom: 20px;"></div>
 <div class="student-container">
   <div class="student-item">
     <a href="https://quentinromerolauro.com/" target="_blank">
