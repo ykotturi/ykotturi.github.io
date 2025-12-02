@@ -1,15 +1,186 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<div style="text-align: center; padding: 20px; margin: 20px 0; background-color: #f8f9fa; border-radius: 4px;">
-  <p>🚧 This page is currently under construction. Please check back soon! 🚧</p>
+
+<div class="teaching-container">
+  <div class="teaching-card">
+    <div class="teaching-header">
+      <h2 class="teaching-title">HCC 629</h2>
+      <span class="teaching-badge current">Current</span>
+    </div>
+    <p class="teaching-institution">University of Maryland, Baltimore County</p>
+    <p class="teaching-course-name">Fundamentals of Human-Centered Computing</p>
+    <p class="teaching-description">
+      This is a graduate course that serves as an introduction to the field of Human-Centered Computing. Upon completion of the course, students will have gained an understanding of the underlying cognitive/perceptual principles to good user interface design, strategies in designing and choosing input and output technologies, and the design methods utilized in human centered system design.
+    </p>
+    <div class="teaching-links">
+      <a href="https://docs.google.com/document/d/1NTl5FFXPZYWo_QNiFz_O3sR7luU6SsWS/edit" target="_blank" rel="noopener noreferrer" class="teaching-link">
+        <i class="fas fa-file-alt"></i> View Fall 2025 Syllabus
+      </a>
+    </div>
+  </div>
+
+  <div class="teaching-card">
+    <div class="teaching-header">
+      <h2 class="teaching-title">IS 303</h2>
+      <span class="teaching-badge upcoming">Upcoming Spring 2026</span>
+    </div>
+    <p class="teaching-institution">University of Maryland, Baltimore County</p>
+    <p class="teaching-course-name">Fundamentals of Human-Computer Interaction</p>
+    <p class="teaching-description">
+      This upper-level undergraduate course provides a survey of human factors and human computer interaction relevant to the design and use of information systems. 
+    </p>
+    <div class="teaching-links">
+      <a href="https://catalog.umbc.edu/preview_course_nopop.php?catoid=40&coid=119659" target="_blank" rel="noopener noreferrer" class="teaching-link">
+        <i class="fas fa-book"></i> View Course Catalog
+      </a>
+    </div>
+  </div>
+
+  <div class="teaching-card">
+    <div class="teaching-header">
+      <h2 class="teaching-title">Human-Centered AI</h2>
+      <span class="teaching-badge in-development">In Development</span>
+    </div>
+    <p class="teaching-institution">University of Maryland, Baltimore County</p>
+    <p class="teaching-course-name">Human-Centered AI</p>
+    <p class="teaching-description">
+      This graduate course explores the intersection of artificial intelligence and human-centered design principles. Students will examine how to design, develop, and evaluate AI systems that prioritize human needs, values, and experiences. Topics include ethical AI design, bias and fairness in machine learning systems, human-AI interaction patterns, explainable AI, and participatory approaches to AI development. The course emphasizes both theoretical foundations and practical applications, preparing students to create AI technologies that are not only technically sound but also socially responsible and user-centered.
+    </p>
+  </div>
 </div>
 
-<!-- {% include base_path %}
+<style>
+  .teaching-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 30px;
+    margin: 30px 0;
+  }
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+  .teaching-card {
+    background: #fff;
+    border: 1px solid #e1e4e8;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .teaching-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .teaching-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .teaching-title {
+    margin: 0;
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: #24292e;
+  }
+
+  .teaching-badge {
+    color: white;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .teaching-badge.current {
+    background-color: #28a745;
+  }
+
+  .teaching-badge.upcoming {
+    background-color: #0366d6;
+  }
+
+  .teaching-badge.in-development {
+    background-color: #6c757d;
+  }
+
+  .teaching-institution {
+    color: #586069;
+    font-weight: 500;
+    margin-bottom: 10px;
+    font-size: 1rem;
+  }
+
+  .teaching-course-name {
+    color: #6a737d;
+    font-style: italic;
+    margin-bottom: 15px;
+    font-size: 0.9rem;
+  }
+
+  .teaching-description {
+    color: #586069;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-size: 0.95rem;
+  }
+
+  .teaching-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #e1e4e8;
+  }
+
+  .teaching-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background-color: #f6f8fa;
+    color: #0366d6;
+    text-decoration: none;
+    border-radius: 6px;
+    border: 1px solid #d1d5da;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+  }
+
+  .teaching-link:hover {
+    background-color: #0366d6;
+    color: white;
+    border-color: #0366d6;
+    text-decoration: none;
+  }
+
+  .teaching-link i {
+    font-size: 1.1rem;
+  }
+
+  @media (max-width: 768px) {
+    .teaching-container {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    .teaching-card {
+      padding: 20px;
+    }
+
+    .teaching-title {
+      font-size: 1.5rem;
+    }
+  }
+</style>

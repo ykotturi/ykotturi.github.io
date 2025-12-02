@@ -148,6 +148,9 @@ hr {
 .social-icons .fa-github, .social-icons .fa-github-alt, .social-icons .fa-github-square {
     color: #606f7b !important;
 }
+.social-icons .fa-linkedin, .social-icons .fa-linkedin-square {
+    color: #606f7b !important;
+}
 .abstract-box
 {
     border: 1px solid #eee;

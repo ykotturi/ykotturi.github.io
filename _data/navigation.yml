@@ -10,6 +10,9 @@ main:
 - title: "Zines"
   url: /zines/
 
+- title: "Software"
+  url: /software/
+
   # - title: "Portfolio"
   #   url: /portfolio/
 
