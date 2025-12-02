@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="student-container">
   <div class="student-item">
-    <a href="https://www.linkedin.com/in/marjory-pineda-b99b9b219/" target="_blank">
+    <a href="https://marjory-pineda.github.io/" target="_blank">
       <img src="/images/Marjory_Pineda_headshot.jpg" alt="Marjory Pineda" class="student-photo">
       <h3 class="student-name">Marjory Pineda</h3>
     </a>
