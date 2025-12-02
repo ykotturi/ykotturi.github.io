@@ -40,7 +40,7 @@ author_profile: true
   
   <div class="zine-info">
     <h3>What is a zine?</h3>
-    <p>A zine (short for "magazine" or "fanzine") is a self-published, small-circulation publication that often features creative, personal, or alternative content. Zines have a rich history in DIY culture, activism, and community organizing, serving as accessible platforms for sharing ideas, art, and perspectives outside mainstream media channels. This digital zine adapts the traditional zine format to present research findings and policy recommendations in an engaging, interactive format.</p>
+    <p>A zine (short for "fanzine") is a self-published, small-circulation publication that often features creative, personal, or alternative content. Zines have a rich history in DIY culture, activism, and community organizing, serving as accessible platforms for sharing ideas, art, and perspectives outside mainstream media channels.</p>
   </div>
 </div>
 
