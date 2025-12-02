@@ -55,7 +55,7 @@ author_profile: true
     <p class="student-degree">MS Computer Science '26, <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
-    <a href="https://www.linkedin.com/in/aasmita-bhattacharya/" target="_blank">
+    <a href="https://aasmitabhattacharya.figma.site/" target="_blank">
       <img src="/images/aasmita-headshot.jpg" alt="Aasmita Bhattacharya headshot" class="student-photo">
       <h3 class="student-name">Aasmita Bhattacharya</h3>
     </a>
