@@ -9,7 +9,7 @@ author_profile: true
   <h2>Student-Driven AI Policy Recommendations</h2>
   
   <div class="zine-intro">
-    <p>This zine presents ten policy recommendations co-developed by students through a participatory workshop series. Findings from our research highlight the need for safe spaces to discuss AI practices and suggest that student-authored policies can clarify expectations and support more purposeful AI use.</p>
+    <p>This zine is part of an ongoing effort to imagine what participatory governance of AI could look like in higher education. Rather than treating policy as something written behind closed doors, we invited students to co-design recommendations based on their own experiences using generative AI in class. Their zine offers practical guidance for instructors and peers, and serves as a reminder that meaningful AI policy emerges from dialogue, not directives—when those most affected have a hand in shaping the rules.</p>
   </div>
   
   <p style="margin: 30px 0 20px 0; font-weight: 500;">Explore the interactive digital zine below by clicking on the pages to advance, as if you were flipping through a paper booklet.</p>
