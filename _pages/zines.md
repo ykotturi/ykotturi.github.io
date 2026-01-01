@@ -26,7 +26,7 @@ author_profile: true
   
   <div class="archive-notice">
     <i class="fas fa-archive" style="margin-right: 8px;"></i>
-    <strong>Archived at UMBC Special Collections:</strong> This zine has been archived in both digital and physical copy at <a href="https://lib.guides.umbc.edu/c.php?g=1475372&p=11187429" target="_blank" rel="noopener noreferrer">UMBC's Albin O. Kuhn Library & Gallery Special Collections</a>.
+    <strong>Archived at UMBC Library:</strong> This zine has been archived in both digital and physical copy at <a href="https://lib.guides.umbc.edu/c.php?g=1475372&p=11187429" target="_blank" rel="noopener noreferrer">UMBC's Albin O. Kuhn Library & Gallery Special Collections</a>.
   </div>
   
   <div class="paper-copy-notice">
