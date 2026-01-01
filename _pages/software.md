@@ -14,9 +14,6 @@ author_profile: true
     <p class="software-description">
       Tokenwise Tracker is an npm package that provides effortless OpenAI cost monitoring for developers. It helps track and manage API usage costs when working with OpenAI's services, making it easier to monitor spending and optimize usage.
     </p>
-    <p class="software-author">
-      Developed by lab member <a href="http://ketulchhaya.com/" target="_blank" rel="noopener noreferrer">Ketul Chhaya</a>, MS CS student.
-    </p>
     <div class="software-links">
       <a href="https://www.npmjs.com/package/tokenwise-tracker" target="_blank" rel="noopener noreferrer" class="software-link">
         <i class="fab fa-npm"></i> View on npm
@@ -35,15 +32,12 @@ author_profile: true
     <p class="software-description">
       BizChat is an LLM-powered web application that helps small business owners across digital skill levels draft business plans. BizChat scaffolds AI-powered business planning by enabling entrepreneurs to generate business plans from their website or chats, iterate via click-to-apply changes or a rich-text editor, and get feedback from experts. 
     </p>
-    <p class="software-author">
-      Developed by lab members <a href="https://quentinromerolauro.com/" target="_blank" rel="noopener noreferrer">Quentin Romero Lauro</a>, <a href="https://ketulchhaya.com" target="_blank" rel="noopener noreferrer">Ketul Chhaya</a>, and <a href="https://qizhao-umbc.github.io/" target="_blank" rel="noopener noreferrer">Qi Zhao</a>.
-    </p>
     <div class="software-links">
       <a href="https://bizchat-io.vercel.app/" target="_blank" rel="noopener noreferrer" class="software-link">
         <i class="fas fa-globe"></i> Visit website
       </a>
       <a href="https://github.com/ykotturi/bizchat/" target="_blank" rel="noopener noreferrer" class="software-link">
-        <i class="fab fa-github"></i> View on GitHub
+        <i class="fab fa-github"></i> View on GitHub (coming soon)
       </a>
       <a href="https://ykotturi.github.io/files/CHI_WORK_Demo_2025_Camera_Ready.pdf" target="_blank" rel="noopener noreferrer" class="software-link">
         <i class="fas fa-file-pdf"></i> Read paper

@@ -55,6 +55,7 @@ CHIWORK Demo 2025
 <div class="des-bar">
   <a href="https://bizchat-io.vercel.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <a href="/files/CHI_WORK_Demo_2025_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3678884.3681895" target="_blank"><i class="fas fa-link"></i> DOI </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
 </div>
@@ -63,6 +64,60 @@ CHIWORK Demo 2025
 Generative AI can help small business owners automate tasks, increase efficiency, and improve their bottom line. However, despite the seemingly intuitive design of systems like ChatGPT, significant barriers remain for those less comfortable with technology. To address these disparities, prior work highlights accessory skills—beyond prompt engineering—users must master to successfully adopt generative AI including keyboard shortcuts, editing skills, file conversions, and browser literacy. Building on a design workshop series and 15 interviews with small businesses, we introduce BizChat, a large language model (LLM)-powered web application that helps business owners across digital skills levels write their business plan—an essential but often neglected document. To do so, BizChat's interface embodies three design considerations inspired by learning sciences: ensuring accessibility to users with less digital skills while maintaining extensibility to power users ("low-floor-high-ceiling"), providing in situ micro-learning to support entrepreneurial education ("just-in-time learning"), and framing interaction around business activities ("contextualized technology introduction"). We conclude with plans for a future BizChat deployment. 
 </div>
 
+<div class="projects-item">
+<div class="thumb">
+<img src='images/prototype.jpeg' style="width:300px;">
+</div>
+
+<div class="des" markdown="1">
+
+### A Node on the Constellation: The Role of Feminist Makerspaces in Building and Sustaining Alternative Cultures of Technology Production
+
+Erin Gatz, Yasmine Kotturi, Andrea Afua Kwamya, Sarah E Fox
+
+We examine how feminist makerspaces sustain themselves as alternative communities challenging dominant technology production cultures. To do so, we conduct interviews with eighteen founders and members across eight U.S. feminist makerspaces, combined with autoethnographic reflection from the first author who cofounded a feminist makerspace.
+
+CSCW 2025
+
+<div class="des-bar">
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3757543" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/10.1145/3757543" target="_blank"><i class="fas fa-link"></i> DOI </a>
+  <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+</div>
+
+</div>
+</div>
+<div class="abstract-box">
+Feminist makerspaces offer community-led alternatives to dominant tech cultures by centering care, mutual aid, and collective knowledge production. While prior CSCW research has explored their inclusive practices, less is known about how these spaces sustain themselves over time. Drawing on interviews with 18 founders and members across 8 U.S. feminist makerspaces as well as autoethnographic reflection, we examine the organizational and relational practices that support long-term endurance. We find that sustainability is not achieved through growth or institutionalization, but through care-driven stewardship, solidarity with local justice movements, and shared governance. These social practices position feminist makerspaces as prefigurative counterspaces-sites that enact, rather than defer, feminist values in everyday practice. This paper offers empirical insight into how feminist makerspaces persist amid structural precarity, and highlights the forms of labor and coalition-building that underpin alternative sociotechnical infrastructures.
+</div>
+---
+
+<div class="projects-item" style="display: flex; align-items: center;">
+  <div class="thumb" style="display: flex; align-items: center; height: 100%;">
+    <img src='images/makers.jpeg' style="width:350px; display: block; margin: auto 0;">
+  </div>
+
+<div class="des" markdown="1">
+
+### Understanding the Challenges of Maker Entrepreneurship
+
+Natalie Friedman, Alexandra Bremers, Adelaide Nyanyo, Ian Clark, Yasmine Kotturi, Laura Dabbish, Wendy Ju, Nikolas Martelaro
+
+This research examines the transition from maker to entrepreneur and the unique challenges creative people face when attempting to commercialize their physical goods. Through interviews with twenty maker entrepreneurs producing items like lamps and stickers, six creative service providers, and seven support professionals, the study identifies key obstacles and opportunities for technology design to better support this population.
+
+CSCW 2025
+
+<div class="des-bar">
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3711096" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/10.1145/3711096" target="_blank"><i class="fas fa-link"></i> DOI </a>
+  <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
+</div>
+
+</div>
+</div>
+<div class="abstract-box">
+The maker movement embodies a resurgence in DIY creation, merging physical craftsmanship and arts with digital technology support. However, mere technological skills and creativity are insufficient for economically and psychologically sustainable practice. By illuminating and smoothing the path from "maker" to "maker entrepreneur," we can help broaden the viability of making as a livelihood. Our research centers on makers who design, produce, and sell physical goods. In this work, we explore the transition to entrepreneurship for these makers and how technology can facilitate this transition online and offline. We present results from interviews with 20 USA-based maker entrepreneurs (i.e., lamps, stickers), six creative service entrepreneurs (i.e., photographers, fabrication), and seven support personnel (i.e., art curator, incubator director). Our findings reveal that many maker entrepreneurs 1) are makers first and entrepreneurs second; 2) struggle with business logistics and learn business skills as they go; and 3) are motivated by non-monetary values. We discuss training and technology-based design implications and opportunities for addressing challenges in developing economically sustainable businesses around making.
+</div>
 ----
 
 <div class="projects-item">
@@ -178,7 +233,7 @@ CSCW 2024 Poster
 <div class="des-bar">
   <!-- <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a> -->
   <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
-  <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3678884.3681895" target="_blank"><i class="fas fa-link"></i> Doi </a>
   <a href="https://arxiv.org/pdf/2407.21404" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
 </div>
@@ -279,11 +334,16 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
 
 
+
+
 ### Recent awards and grants:
 
 
   <div class="item">
     <ol><a target="_blank" href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/"><img src='/images/cra-logo.png' width="50" > Honored to be a CRA Trustworthy AI fellow in the inaugural cohort 2025-2026! </a></ol>
+  </div>
+  <div class="item">
+    <ol><a target="_blank" href="https://www.usmd.edu/cai/inaugural-cohort-faculty-named-generative-ai-pedagogy-fellows"><img src='/images/usm-logo.png' width="50" > Selected by UMBC Provost to be a USM Generative AI Pedagogy fellow in the inaugural cohort 2025-2026! </a></ol>
   </div> 
   <div class="item">
     <ol><a target="_blank" href="https://entrepreneurship.umbc.edu/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC Eileen and Jerry Carroll Faculty Research Award as Co-PI: Design Commons Lab: Technical and Design Skill Building with Entrepreneurs and Residents in Baltimore City (2025-2026)</a></ol>
