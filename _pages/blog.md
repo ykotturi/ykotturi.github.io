@@ -28,6 +28,26 @@ author_profile: true
 
   <!-- Blog Post 2 -->
   <div class="medium-blog-post" style="display: flex; align-items: center; margin-bottom: 2em;">
+    <a href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/" target="_blank" style="margin-right: 1.5em; margin-left: 0;">
+      <img src="/images/CRN-online-banner.png" alt="Blog Post Thumbnail" style="width:300px; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+    </a>
+    <div>
+      <h2 style="margin: 0; font-size: 1.2em;">
+        <a href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/" target="_blank" style="text-decoration:none;color:#222;">
+          CRA Trustworthy AI Research Fellow Spotlight: Yasmine Kotturi
+        </a>
+      </h2>
+      <p style="margin: 0.2em 0 1em 0;font-size:0.85em; color:#222;">
+        Computing Research Association and Yasmine Kotturi <br>
+        October 2025 <br>
+        <b>tl;dr:</b>As a CRA Trustworthy AI Fellow, I discuss my work building community-centered AI tools like BizChat (an LLM app helping small business owners draft business plans through a feminist makerspace partnership), argue that trustworthy AI should sometimes foster informed refusal rather than just adoption, and emphasize grounding AI design in both human-centered basics and meaningful community participation.
+      </p>
+      <a href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/" target="_blank" style="color:#3b5998; font-weight:bold; font-size:0.85em;">Read Full Article</a>
+    </div>
+  </div>
+
+  <!-- Blog Post 4 -->
+  <div class="medium-blog-post" style="display: flex; align-items: center; margin-bottom: 2em;">
     <a href="https://medium.com/p/1cefd05fbe35" target="_blank" style="margin-right: 1.5em; margin-left: 0;">
       <img src="/images/medium-peerdea.png" alt="Medium Blog Post Thumbnail" style="width:300px; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     </a>
@@ -46,7 +66,7 @@ author_profile: true
     </div>
   </div>
 
-  <!-- Blog Post 3 -->
+  <!-- Blog Post 5 -->
   <div class="medium-blog-post" style="display: flex; align-items: center; margin-bottom: 2em;">
     <a href="https://medium.com/acm-cscw/towards-sustainable-economic-futures-with-long-term-tech-support-for-local-businesses-5bd8e6018563" target="_blank" style="margin-right: 1.5em; margin-left: 0;">
       <img src="/images/medium-thd.png" alt="Sustainable Economic Futures Blog Post Thumbnail" style="width:300px; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
