@@ -13,6 +13,9 @@ main:
 - title: "Software"
   url: /software/
 
+- title: "Kotturi Lab Blog"
+  url: /blog/
+
   # - title: "Portfolio"
   #   url: /portfolio/
 
