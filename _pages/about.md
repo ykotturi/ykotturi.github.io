@@ -71,7 +71,9 @@ Generative AI can help small business owners automate tasks, increase efficiency
 
 <div class="des" markdown="1">
 
-### A Node on the Constellation: The Role of Feminist Makerspaces in Building and Sustaining Alternative Cultures of Technology Production
+### A Node on the Constellation: The Role of Feminist Makerspaces in Building and Sustaining Alternative Cultures of Technology Production <i class="fas fa-trophy" style="color: #FFD700;"></i>
+
+<p style="font-size: 0.9em; color: #555; margin-top: 0.5em;"><i class="fas fa-award"></i> <strong>DEI Award Recipient</strong></p>
 
 Erin Gatz, Yasmine Kotturi, Andrea Afua Kwamya, Sarah E Fox
 
