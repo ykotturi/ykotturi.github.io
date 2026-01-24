@@ -40,29 +40,53 @@ redirect_from:
 
 <div class="projects-item">
   <div class="thumb" style="display: flex; align-items: center; justify-content: center;">
-    <img src='/images/bizchat-interface.png' style="width:360px;">
+    <img src='/images/policy-chi.png' style="width:360px;">
   </div>
 <div class="des" markdown="1">
 
-### BizChat: Scaffolding AI-Powered Business Planning for Small Business Owners Across Digital Skill Levels
+### Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom
 
-Quentin Romero Lauro, Aakash Gautum, Yasmine Kotturi
+Kaoru Seki and Manisha Vijay (co-first authors), Yasmine Kotturi
 
-In this demo, we introduce BizChat, an AI-powered web application designed to help small business owners complete tedious yet essential back-office tasks (e.g., writing a business plan). Drawing from learning sciences, BizChat provides accessible, just-in-time support tailored to users' digital skills and business goals.
+Most classroom AI policies are written without student input and focus on penalizing misuse. This paper examines how participatory, student-led AI policy design can address this disconnect. Through a three-part participatory workshop series in a graduate design studio, students co-developed ten policy recommendations, later visualized in a zine.
 
-CHIWORK Demo 2025
+CHI 2026
 
 <div class="des-bar">
-  <a href="https://bizchat-io.vercel.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
-  <a href="/files/CHI_WORK_Demo_2025_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
-  <a href="https://dl.acm.org/doi/pdf/10.1145/3678884.3681895" target="_blank"><i class="fas fa-link"></i> DOI </a>
+  <a href="https://ykotturi.github.io/zines" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://lib.guides.umbc.edu/c.php?g=1475372&p=11187429" target="_blank"><i class="fas fa-archive"></i> UMBC Archive </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
 </div>
 </div>
 <div class="abstract-box">
-Generative AI can help small business owners automate tasks, increase efficiency, and improve their bottom line. However, despite the seemingly intuitive design of systems like ChatGPT, significant barriers remain for those less comfortable with technology. To address these disparities, prior work highlights accessory skills—beyond prompt engineering—users must master to successfully adopt generative AI including keyboard shortcuts, editing skills, file conversions, and browser literacy. Building on a design workshop series and 15 interviews with small businesses, we introduce BizChat, a large language model (LLM)-powered web application that helps business owners across digital skills levels write their business plan—an essential but often neglected document. To do so, BizChat's interface embodies three design considerations inspired by learning sciences: ensuring accessibility to users with less digital skills while maintaining extensibility to power users ("low-floor-high-ceiling"), providing in situ micro-learning to support entrepreneurial education ("just-in-time learning"), and framing interaction around business activities ("contextualized technology introduction"). We conclude with plans for a future BizChat deployment. 
+Generative AI is reshaping education, yet most classroom policies are written without students and focus on penalizing misuse. This top-down approach sidelines those most affected—students—who have little say in governing their everyday learning, resulting in confusion and fear about acceptable use. We examine how participatory, student-led AI policy design can address this disconnect. We position students as lead users—early adopters of generative AI—and report on a three-part participatory workshop series in a graduate design studio at a minority-serving university. Two student co-researchers, without faculty present, facilitated workshops where eight participants surfaced candid AI uses and co-developed ten policy recommendations, later visualized in a zine. Two additional students who declined workshops due to AI skepticism contributed via follow-up interviews. Findings highlight the need for safe spaces to discuss unfiltered AI practices and suggest that student-authored policies can clarify expectations and support more purposeful AI use.
 </div>
+
+<div class="projects-item">
+  <div class="thumb" style="display: flex; align-items: center; justify-content: center;">
+    <img src='images/bizchat-interface.png' style="width:360px;">
+  </div>
+<div class="des" markdown="1">
+
+### Towards Designing for Resilience: Community-Centered Deployment of an AI Business Planning Tool in a Small Business Center
+
+Quentin Romero Lauro, Aakash Gautum, Yasmine Kotturi
+
+We introduce BizChat, an AI-powered web application designed to help small business owners complete tedious yet essential back-office tasks (e.g., writing a business plan). Drawing from learning sciences, BizChat provides accessible, just-in-time support tailored to users’ digital skills and business goals.
+
+CHI 2026
+
+<div class="des-bar">
+  <a href="https://bizchat-io.vercel.app/" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
+</div>
+</div>
+</div>
+<div class="abstract-box">
+Entrepreneurs in resource-constrained communities often lack time and support to translate ideas into actionable business plans. While generative AI promises assistance, most systems assume high digital literacy and overlook community infrastructures that shape adoption. We report on the community-centered design and deployment of BizChat, an LLM-powered business planning tool, introduced across four workshops at a feminist makerspace in Pittsburgh, PA. Through log data (N=30) and interviews (N=10), we examine how entrepreneurs build resilience through collective AI literacy development—encompassing adoption, adaptation, and refusal of AI. Our findings reveal a central tension: while BizChat lowered barriers to accessing capital by translating ideas into "business language," this ease raised questions about whether instant AI outputs undermine sensemaking essential to planning. We show how peer support helped entrepreneurs navigate this tension. We contribute design implications—including productive friction, communal scaffolds, and co-optability—for strengthening resilience amid technological change.
+</div>
+
 
 <div class="projects-item">
 <div class="thumb">
