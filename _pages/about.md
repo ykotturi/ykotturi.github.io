@@ -65,7 +65,7 @@ Generative AI is reshaping education, yet most classroom policies are written wi
 
 <div class="projects-item">
   <div class="thumb" style="display: flex; align-items: center; justify-content: center;">
-    <img src='images/bizchat-interface.png' style="width:360px;">
+    <img src='images/prototype-bizchat.jpg' style="width:360px;">
   </div>
 <div class="des" markdown="1">
 
@@ -73,7 +73,7 @@ Generative AI is reshaping education, yet most classroom policies are written wi
 
 Quentin Romero Lauro, Aakash Gautum, Yasmine Kotturi
 
-We introduce BizChat, an AI-powered web application designed to help small business owners complete tedious yet essential back-office tasks (e.g., writing a business plan). Drawing from learning sciences, BizChat provides accessible, just-in-time support tailored to users’ digital skills and business goals.
+Through community-centered workshops at a feminist makerspace, this study examines how entrepreneurs collectively navigate AI-assisted business planning—revealing tensions between instant outputs and reflective sensemaking, and how peer support enables adoption, adaptation, and refusal of AI tools.
 
 CHI 2026
 
@@ -87,6 +87,33 @@ CHI 2026
 Entrepreneurs in resource-constrained communities often lack time and support to translate ideas into actionable business plans. While generative AI promises assistance, most systems assume high digital literacy and overlook community infrastructures that shape adoption. We report on the community-centered design and deployment of BizChat, an LLM-powered business planning tool, introduced across four workshops at a feminist makerspace in Pittsburgh, PA. Through log data (N=30) and interviews (N=10), we examine how entrepreneurs build resilience through collective AI literacy development—encompassing adoption, adaptation, and refusal of AI. Our findings reveal a central tension: while BizChat lowered barriers to accessing capital by translating ideas into "business language," this ease raised questions about whether instant AI outputs undermine sensemaking essential to planning. We show how peer support helped entrepreneurs navigate this tension. We contribute design implications—including productive friction, communal scaffolds, and co-optability—for strengthening resilience amid technological change.
 </div>
 
+
+
+<div class="projects-item">
+  <div class="thumb" style="display: flex; align-items: center; justify-content: center;">
+    <img src='/images/bizchat-interface.png' style="width:360px;">
+  </div>
+<div class="des" markdown="1">
+
+### BizChat: Scaffolding AI-Powered Business Planning for Small Business Owners Across Digital Skill Levels
+
+Quentin Romero Lauro, Aakash Gautum, Yasmine Kotturi
+
+In this demo, we introduce BizChat, an AI-powered web application designed to help small business owners complete tedious yet essential back-office tasks (e.g., writing a business plan). Drawing from learning sciences, BizChat provides accessible, just-in-time support tailored to users' digital skills and business goals.
+
+CHIWORK Demo 2025
+
+<div class="des-bar">
+  <a href="https://bizchat-io.vercel.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="/files/CHI_WORK_Demo_2025_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3678884.3681895" target="_blank"><i class="fas fa-link"></i> DOI </a>
+  <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
+</div>
+</div>
+</div>
+<div class="abstract-box">
+Generative AI can help small business owners automate tasks, increase efficiency, and improve their bottom line. However, despite the seemingly intuitive design of systems like ChatGPT, significant barriers remain for those less comfortable with technology. To address these disparities, prior work highlights accessory skills—beyond prompt engineering—users must master to successfully adopt generative AI including keyboard shortcuts, editing skills, file conversions, and browser literacy. Building on a design workshop series and 15 interviews with small businesses, we introduce BizChat, a large language model (LLM)-powered web application that helps business owners across digital skills levels write their business plan—an essential but often neglected document. To do so, BizChat's interface embodies three design considerations inspired by learning sciences: ensuring accessibility to users with less digital skills while maintaining extensibility to power users ("low-floor-high-ceiling"), providing in situ micro-learning to support entrepreneurial education ("just-in-time learning"), and framing interaction around business activities ("contextualized technology introduction"). We conclude with plans for a future BizChat deployment. 
+</div> 
 
 <div class="projects-item">
 <div class="thumb">
