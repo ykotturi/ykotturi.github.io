@@ -11,14 +11,14 @@ author_profile: true
       <img src="/images/Marjory_Pineda_headshot.jpg" alt="Marjory Pineda" class="student-photo">
       <h3 class="student-name">Marjory Pineda</h3>
     </a>
-    <p class="student-degree">PhD Human-Centered Computing '29 <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
     <a href="https://qizhao-umbc.github.io/" target="_blank">
       <img src="/images/qi-zhao.jpg" alt="Qi Zhao" class="student-photo">
       <h3 class="student-name">Qi Zhao</h3>
     </a>
-    <p class="student-degree">PhD Human-Centered Computing '30 <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
   </div>
 </div>
 
