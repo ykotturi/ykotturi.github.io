@@ -48,7 +48,7 @@ redirect_from:
 
 Kaoru Seki and Manisha Vijay (co-first authors), Yasmine Kotturi
 
-Most classroom AI policies are written without student input and focus on penalizing misuse. This paper examines how participatory, student-led AI policy design can address this disconnect. Through a three-part participatory workshop series in a graduate design studio, students co-developed ten policy recommendations, later visualized in a zine.
+Most classroom AI policies are written without student input and focus on penalizing misuse. This paper examines how participatory, student-led AI policy design can address this disconnect. Through a three-part participatory workshop series in a graduate design studio, students co-developed ten policy recommendations, later visualized in a zine and distributed across campus.
 
 CHI 2026
 
