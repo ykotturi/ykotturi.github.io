@@ -55,6 +55,7 @@ CHI 2026
 <div class="des-bar">
   <a href="https://ykotturi.github.io/zines" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <a href="https://lib.guides.umbc.edu/c.php?g=1475372&p=11187429" target="_blank"><i class="fas fa-archive"></i> UMBC Archive </a>
+  <a href="/files/CHI_2026___Student_AI_Policy-cameraready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
 </div>
@@ -79,6 +80,7 @@ CHI 2026
 
 <div class="des-bar">
   <a href="https://bizchat-io.vercel.app/" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="/files/BizChat_CHI_2026_Final___Camera-Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
 </div>
