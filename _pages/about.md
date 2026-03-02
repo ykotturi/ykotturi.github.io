@@ -391,9 +391,12 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
 
 
-### Recent awards and grants:
+### Recent news:
 
 
+<div class="item">
+    <ol><a target="_blank" href="https://needle.podbean.com/e/ai-unscripted-from-policy-to-participation-co-creating-ai-guidelines-with-students/"><img src='/images/Podcast_Logo.png' width="50" > Listen to my conversation with University System of Maryland's Kirwan Center for Academic Innovation's <em>AI, Unscripted</em> podcast on participatory AI governance in higher education </a></ol>
+  </div>
   <div class="item">
     <ol><a target="_blank" href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/"><img src='/images/cra-logo.png' width="50" > Honored to be a CRA Trustworthy AI fellow in the inaugural cohort 2025-2026! </a></ol>
   </div>
