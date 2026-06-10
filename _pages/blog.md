@@ -5,7 +5,28 @@ permalink: /blog/
 author_profile: true
 ---
 
+
 <div class="medium-blog-list">
+  <!-- Blog Post 0 -->
+  <div class="medium-blog-post" style="display: flex; align-items: center; margin-bottom: 2em;">
+    <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/" style="margin-right: 1.5em; margin-left: 0;">
+      <img src="/images/chi-all-kotturi-lab.jpeg" alt="Kotturi Lab Goes to CHI" style="width:300px; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+    </a>
+    <div>
+      <h2 style="margin: 0; font-size: 1.2em;">
+        <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/" style="text-decoration:none;color:#222;">
+          Kotturi Lab Goes to CHI
+        </a>
+      </h2>
+      <p style="margin: 0.2em 0 1em 0;font-size:0.85em; color:#222;">
+        Yasmine Kotturi <br>
+        May 27, 2026 <br>
+        <b>tl;dr:</b> The Kotturi Lab will present two papers at CHI 2026 on student-driven AI policy design and community-centered deployment of AI tools for small business planning.
+      </p>
+      <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/" style="color:#3b5998; font-weight:bold; font-size:0.85em;">Read Full Article</a>
+    </div>
+  </div>
+
   <!-- Blog Post 1 -->
   <div class="medium-blog-post" style="display: flex; align-items: center; margin-bottom: 2em;">
     <a href="https://medium.com/@chhayaketul13/tokenwise-tracker-effortless-openai-cost-monitoring-for-developers-98f333a9161d" target="_blank" style="margin-right: 1.5em; margin-left: 0;">
