@@ -2,10 +2,6 @@
 title: 'The Kotturi Lab Goes to CHI 2026'
 date: 2026-05-27
 permalink: /posts/2026/05/the-kotturi-lab-goes-to-chi-2026/
-tags:
-  - lab updates
-  - conferences
-  - CHI
 fig_lab:
   - image_path: chi-all-kotturi-lab.jpeg
     alt: The Kotturi Lab at CHI 2026
@@ -44,29 +40,29 @@ fig_bizchat:
 }
 </style>
 
-We are thrilled to share that the Kotturi Lab presented two papers and a poster at CHI 2026 in Barcelona. Just as meaningful as the work itself: this was the first CHI for several of our students, and for Kaoru, Manisha, and Qi, the first academic conference of any kind. Watching them give their first talks, run their first poster session, and find their footing in a room of thousands was the highlight of the week.
+We are thrilled to share that the Kotturi Lab presented two papers and a poster at CHI 2026 in Barcelona. Just as meaningful as the work itself: this was the first CHI for all of our students, and for Kaoru, Manisha, and Qi, the first academic conference of any kind. Watching them give their first talks, run their first poster session, and find their footing in a room of thousands was the highlight of the week.
 
-{% include gallery id="fig_lab" caption="The Kotturi Lab at CHI 2026 in Barcelona." %}
+{% include gallery id="fig_lab" caption="The Kotturi Lab at CHI 2026 in Barcelona. From left to right: Qi Zhao, Yasmine Kotturi, Manisha Vijay, Kaoru Seki, and Quentin Romero Lauro." %}
 
-Our two accepted papers — **Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom** and **Towards Designing for Resilience: Community-Centered Deployment of an AI Business Planning Tool in a Small Business Center** — reflect our ongoing commitment to human-centered AI, participatory design, and community-engaged research. We're grateful to our collaborators and students who made this work possible.
+Our two accepted papers — [**Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom**](/files/CHI_2026___Student_AI_Policy-camera-ready.pdf){:target="_blank" rel="noopener"} and [**Towards Designing for Resilience: Community-Centered Deployment of an AI Business Planning Tool in a Small Business Center**](/files/BizChat_CHI_2026_Final___Camera-Ready.pdf){:target="_blank" rel="noopener"} — reflect our ongoing commitment to human-centered AI, participatory design, and community-engaged research. We're grateful to our collaborators and students who made this work possible.
 
-## Participatory, not Punitive
+## [Participatory, not Punitive](/files/CHI_2026___Student_AI_Policy-camera-ready.pdf){:target="_blank" rel="noopener"}
 
-Kaoru Seki and Manisha Vijay presented our paper on student-driven AI policy design in the classroom. The work grew out of a participatory design workshop series where students drafted their own AI policies for a design course and visualized their recommendations in a zine.
+Kaoru Seki and Manisha Vijay presented [our paper](/files/CHI_2026___Student_AI_Policy-camera-ready.pdf){:target="_blank" rel="noopener"} on student-driven AI policy design in the classroom. The work grew out of a participatory design workshop series where students drafted their own AI policies for a design course and visualized their recommendations in a zine.
 
-{% include gallery id="fig_policy_talk" caption="Kaoru Seki and Manisha Vijay present *Participatory, not Punitive* on the final day of the conference." %}
+{% include gallery id="fig_policy_talk" caption="Kaoru Seki and Manisha Vijay present [*Participatory, not Punitive*](/files/CHI_2026___Student_AI_Policy-camera-ready.pdf) on the final day of the conference." %}
 
 In a lovely touch, Kaoru and Manisha handed that zine out to the audience during the talk itself — putting the research literally into people's hands and sparking conversations the moment they stepped off the stage.
 
-{% include gallery id="fig_policy_audience" caption="Audience members follow along with the student-authored AI policy zine, distributed during the talk." %}
+{% include gallery id="fig_policy_audience" caption="Audience members follow along with the [student-authored AI policy zine](https://ykotturi.github.io/zines), distributed during the talk." %}
 
 The session drew real interest in carrying the work forward, including from faculty curious about turning the process into a replicable model for student-informed GenAI policy across institutions.
 
-## Towards Designing for Resilience
+## [Towards Designing for Resilience](/files/BizChat_CHI_2026_Final___Camera-Ready.pdf){:target="_blank" rel="noopener"}
 
-Quentin Romero Lauro presented our paper on the community-centered deployment of BizChat, an AI business-planning tool — work grounded in a real-world community partnership rather than a controlled lab study.
+Quentin Romero Lauro presented [our paper](/files/BizChat_CHI_2026_Final___Camera-Ready.pdf){:target="_blank" rel="noopener"} on the community-centered deployment of BizChat, an AI business-planning tool — work grounded in a real-world community partnership rather than a controlled lab study.
 
-{% include gallery id="fig_bizchat" caption="Quentin Romero Lauro presents *Towards Designing for Resilience*, on the community-centered deployment of an AI business-planning tool." %}
+{% include gallery id="fig_bizchat" caption="Quentin Romero Lauro presents [*Towards Designing for Resilience*](/files/BizChat_CHI_2026_Final___Camera-Ready.pdf), on the community-centered deployment of an AI business-planning tool." %}
 
 ## A First Poster
 
@@ -74,7 +70,7 @@ Qi Zhao presented his poster, *"I don't feel lonely because I don't work alone m
 
 ## First CHI, In Their Words
 
-We asked Kaoru, Manisha, and Qi to write down their reflections on the week. A few highlights.
+Given that this was their first time at CHI, we asked Kaoru, Manisha, and Qi to write down their reflections on the week. A few highlights.
 
 **Kaoru** served as a student volunteer, which gave her a behind-the-scenes view of how the conference runs — and, during one shift, an unexpected invitation into a closed workshop on restoring human authenticity in AI-mediated communication. The conversation connected directly to her PhD interests and surfaced design ideas she's still chewing on, like interfaces that show writing side-by-side in a user's native language so they can preserve their own voice. When it came time to present, handing the policy zine to the audience turned the talk into a two-way exchange and led to a concrete collaboration prospect — proof, as she put it, that:
 
@@ -84,7 +80,7 @@ We asked Kaoru, Manisha, and Qi to write down their reflections on the week. A f
 
 {% include gallery id="fig_policy_talk2" caption="Kaoru and Manisha — both presenting for the first time — after their talk." %}
 
-**Manisha** co-presented the policy paper as her first paper ever, and arrived nervous about measuring up to such a prestigious audience. Two things shifted that: Pep Gatell's opening keynote, which left her with the advice to approach everything with a "hybrid brain" and stay close to people who think differently, and the simple realization — watching talk after talk — that she had already earned her place in the room:
+**Manisha** co-presented [the policy paper](/files/CHI_2026___Student_AI_Policy-camera-ready.pdf){:target="_blank" rel="noopener"} as her first paper ever, and arrived nervous about measuring up to such a prestigious audience. Two things shifted that: Pep Gatell's opening keynote, which left her with the advice to approach everything with a "hybrid brain" and stay close to people who think differently, and the simple realization — watching talk after talk — that she had already earned her place in the room:
 
 > I don't have to prove myself to anyone. I already did that by submitting to the conference and getting accepted.
 
