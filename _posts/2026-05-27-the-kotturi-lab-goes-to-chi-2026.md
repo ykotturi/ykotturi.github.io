@@ -78,7 +78,7 @@ Given that this was their first time at CHI, we asked Kaoru, Manisha, and Qi to 
 
 [Read Kaoru's full reflection →](https://docs.google.com/document/d/1dbliVMtpiuINCwMDO_YeZhisBYdL62yX1wGLCPe0ksI/edit){:target="_blank" rel="noopener"}
 
-{% include gallery id="fig_policy_talk2" caption="Kaoru and Manisha — both presenting for the first time — after their talk." %}
+{% include gallery id="fig_policy_talk2" caption="Kaoru and Manisha — both presenting for the first time — during their talk." %}
 
 **Manisha** co-presented [the policy paper](/files/CHI_2026___Student_AI_Policy-camera-ready.pdf){:target="_blank" rel="noopener"} as her first paper ever, and arrived nervous about measuring up to such a prestigious audience. Two things shifted that: Pep Gatell's opening keynote, which left her with the advice to approach everything with a "hybrid brain" and stay close to people who think differently, and the simple realization — watching talk after talk — that she had already earned her place in the room:
 
