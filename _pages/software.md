@@ -48,7 +48,7 @@ author_profile: true
   <div class="software-card">
     <div class="software-header">
       <h2 class="software-title">Peerdea</h2>
-      <span class="software-badge">mobile app</span>
+      <span class="software-badge">iOS &amp; Android app</span>
     </div>
     <p class="software-description">
       Peerdea is a trusted environment for entrepreneurs to reflect and receive peer feedback. It facilitates feedback exchange, goal setting, and accountability among trusted entrepreneurs, providing social support for business and professional development. The system includes features for sharing design concepts, giving structured feedback using "Yes" and "Yes and..." responses, and building peer support networks.
