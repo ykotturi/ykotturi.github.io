@@ -393,7 +393,9 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
 ### Recent news:
 
-
+<div class="item">
+    <ol><a target="_blank" href="https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"><img src='/images/mit-tech-review.png' width="50" > Read my commentary in <em>MIT Technology Review</em> on informed consent for the gig workers training humanoid robots at home </a></ol>
+  </div>
 <div class="item">
     <ol><a target="_blank" href="https://needle.podbean.com/e/ai-unscripted-from-policy-to-participation-co-creating-ai-guidelines-with-students/"><img src='/images/Podcast_Logo.png' width="50" > Listen to my conversation with University System of Maryland's Kirwan Center for Academic Innovation's <em>AI, Unscripted</em> podcast on participatory AI governance in higher education </a></ol>
   </div>
