@@ -173,6 +173,8 @@
    ========================================================================== */
 
 .greedy-nav {
+  display: flex;
+  align-items: center;
   position: relative;
   min-width: 250px;
   background: $background-color;
@@ -209,8 +211,6 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
-
         a {
           margin-left: 0;
         }

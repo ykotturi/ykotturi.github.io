@@ -53,6 +53,7 @@
 }
 
 .site-logo {
+  flex-shrink: 0;
   display: inline-flex;
   align-items: center;
 }

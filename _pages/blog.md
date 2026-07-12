@@ -18,7 +18,7 @@ author_profile: true
       <p class="medium-blog-meta">
         Yasmine Kotturi <br>
         May 27, 2026 <br>
-        <b>tl;dr:</b> The Kotturi Lab will present two papers at CHI 2026 on student-driven AI policy design and community-centered deployment of BizChat, an AI business-planning tool for small business planning.
+        <b>tl;dr:</b> The Kotturi Lab presented two papers at CHI 2026 on student-driven AI policy design and community-centered deployment of BizChat, an AI business-planning tool for small business planning.
       </p>
       <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/" class="medium-blog-read-more">Read Full Article</a>
     </div>
