@@ -54,8 +54,9 @@ CHI 2026
 
 <div class="des-bar">
   <a href="/files/CHI_2026___Student_AI_Policy-camera-ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/10.1145/3772318.3790691" target="_blank"><i class="fas fa-link"></i> DOI </a>
   <a href="https://ykotturi.github.io/zines" target="_blank"><i class="fas fa-globe"></i> Project website </a>
-  <a href="https://lib.guides.umbc.edu/c.php?g=1475372&p=11187429" target="_blank"><i class="fas fa-archive"></i> UMBC Archive </a>
+  <a href="https://lib.guides.umbc.edu/c.php?g=1475372&p=11187429" target="_blank"><i class="fas fa-archive"></i> Zine </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
 </div>
@@ -80,6 +81,7 @@ CHI 2026
 
 <div class="des-bar">
   <a href="/files/BizChat_CHI_2026_Final___Camera-Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/10.1145/3772318.3791654" target="_blank"><i class="fas fa-link"></i> DOI </a>
   <a href="https://bizchat-io.vercel.app/" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
@@ -106,9 +108,10 @@ In this demo, we introduce BizChat, an AI-powered web application designed to he
 CHIWORK Demo 2025
 
 <div class="des-bar">
-  <a href="https://bizchat-io.vercel.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <a href="/files/CHI_WORK_Demo_2025_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
-  <a href="https://dl.acm.org/doi/pdf/10.1145/3678884.3681895" target="_blank"><i class="fas fa-link"></i> DOI </a>
+  <a href="https://dl.acm.org/doi/10.1145/3707640.3731928" target="_blank"><i class="fas fa-link"></i> DOI </a>
+  <a href="https://bizchat-io.vercel.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://www.youtube.com/watch?v=jNYSqKafjKE" target="_blank"><i class="fab fa-youtube"></i> Video </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
 </div>
@@ -195,11 +198,11 @@ AI tools for local entrepreneurs, scaffolding actionable use (and supporting non
 CHI 2024
 
  <div class="des-bar">
-   <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
    <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
    <!-- <a href="#" class="copy-bib" id="copyBibLink"><i class="fas fa-copy"></i> <span>Copy BibTeX</span></a> -->
-   <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
    <a href="/files/Kotturi_CHI_2024_Entrepreneurs_X_genAI_Revised.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+   <a href="https://dl.acm.org/doi/10.1145/3613904.3642191" target="_blank"><i class="fas fa-link"></i> DOI </a>
+   <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
    <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
  </div>
 </div>
@@ -231,11 +234,11 @@ In this paper, we describe a multi-year partnership with a local feminist makers
 CSCW 2024
 
  <div class="des-bar">
-   <a href="https://peerdea.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
    <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
    <!-- <a href="#" class="copy-bib" id="copyBibLink"><i class="fas fa-copy"></i> <span>Copy BibTeX</span></a> -->
-   <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
    <a href="/files/Kotturi_etal_CSCW24_Peerdea_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+   <a href="https://dl.acm.org/doi/10.1145/3637384" target="_blank"><i class="fas fa-link"></i> DOI </a>
+   <a href="https://peerdea.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
    <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
  </div>
 </div>
@@ -288,8 +291,8 @@ CSCW 2024 Poster
 <div class="des-bar">
   <!-- <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a> -->
   <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
-  <a href="https://dl.acm.org/doi/pdf/10.1145/3678884.3681895" target="_blank"><i class="fas fa-link"></i> Doi </a>
   <a href="https://arxiv.org/pdf/2407.21404" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/10.1145/3678884.3681895" target="_blank"><i class="fas fa-link"></i> DOI </a>
   <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
 </div>
 
@@ -324,10 +327,11 @@ CSCW 2024
 
 
 <div class="des-bar">
-  <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
-  <!-- <a href="#" target="_blank"><i class="fas fa-link"></i> Doi </a> -->
   <a href="/files/Kotturi_Hui_etal_CSCW_2024_Future_Proofing_Camera_Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/10.1145/3641017" target="_blank"><i class="fas fa-link"></i> DOI </a>
+  <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://www.youtube.com/watch?v=WVLfN_n2pmU" target="_blank"><i class="fab fa-youtube"></i> Video </a>
   <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
 </div>
 
@@ -372,10 +376,11 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
  CHI 2022
  
 <div class="des-bar">
-  <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <!-- <a href="#" class="copy-bib"><i class="fas fa-copy"></i> <span>Copy BibTex</span> </a> -->
-  <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517708" target="_blank"><i class="fas fa-link"></i> Doi </a>
   <a href="/files/chi22b-sub2264-cam-i16.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
+  <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517708" target="_blank"><i class="fas fa-link"></i> DOI </a>
+  <a href="https://www.forge.community/services/tech-help-desk" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://www.youtube.com/watch?v=f2ZHgbkzfbE" target="_blank"><i class="fab fa-youtube"></i> Video </a>
   <a href="#"  class="show-abstract"><i class="fas fa-quote-left"></i> Abstract </a>
  </div>
 </div>

@@ -18,7 +18,7 @@ author_profile: true
       <p class="medium-blog-meta">
         Yasmine Kotturi <br>
         May 27, 2026 <br>
-        <b>tl;dr:</b> The Kotturi Lab presented two papers at CHI 2026 on student-driven AI policy design and community-centered deployment of BizChat, an AI business-planning tool for small business planning.
+        The Kotturi Lab presented two papers at CHI 2026 on student-driven AI policy design and community-centered deployment of BizChat, an AI business-planning tool for small business planning.
       </p>
       <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/" class="medium-blog-read-more">Read Full Article</a>
     </div>
@@ -36,7 +36,7 @@ author_profile: true
       <p class="medium-blog-meta">
         Ketul Chhaya <br>
         November 24, 2025 <br>
-        <b>tldr:</b> Tokenwise Tracker is an npm package that provides effortless OpenAI cost monitoring for developers. It helps track and manage API usage costs when working with OpenAI's services, making it easier to monitor spending and optimize usage.
+        Tokenwise Tracker is an npm package that provides effortless OpenAI cost monitoring for developers. It helps track and manage API usage costs when working with OpenAI's services, making it easier to monitor spending and optimize usage.
       </p>
       <a href="https://medium.com/@chhayaketul13/tokenwise-tracker-effortless-openai-cost-monitoring-for-developers-98f333a9161d" target="_blank" rel="noopener noreferrer" class="medium-blog-read-more">Read Full Article</a>
     </div>
@@ -54,7 +54,7 @@ author_profile: true
       <p class="medium-blog-meta">
         Computing Research Association and Yasmine Kotturi <br>
         October 2025 <br>
-        <b>tl;dr:</b> As a CRA Trustworthy AI Fellow, I discuss my work building community-centered AI tools like BizChat (an LLM app helping small business owners draft business plans through a feminist makerspace partnership), argue that trustworthy AI should sometimes foster informed refusal rather than just adoption, and emphasize grounding AI design in both human-centered basics and meaningful community participation.
+        As a CRA Trustworthy AI Fellow, I discuss my work building community-centered AI tools like BizChat (an LLM app helping small business owners draft business plans through a feminist makerspace partnership), argue that trustworthy AI should sometimes foster informed refusal rather than just adoption, and emphasize grounding AI design in both human-centered basics and meaningful community participation.
       </p>
       <a href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/" target="_blank" rel="noopener noreferrer" class="medium-blog-read-more">Read Full Article</a>
     </div>
@@ -72,7 +72,7 @@ author_profile: true
       <p class="medium-blog-meta">
         Yasmine Kotturi <br>
         October 31, 2024 <br>
-        <b>tl;dr:</b> We built Peerdea, a peer support app for creative entrepreneurs, through a 3.5-year partnership with a Pittsburgh feminist makerspace. Unlike social media, it uses small trusted groups where creators can safely share unfinished work, get feedback, and protect their IP.
+        We built Peerdea, a peer support app for creative entrepreneurs, through a 3.5-year partnership with a Pittsburgh feminist makerspace. Unlike social media, it uses small trusted groups where creators can safely share unfinished work, get feedback, and protect their IP.
       </p>
       <a href="https://medium.com/p/1cefd05fbe35" target="_blank" rel="noopener noreferrer" class="medium-blog-read-more">Read Full Article</a>
     </div>
@@ -90,7 +90,7 @@ author_profile: true
       <p class="medium-blog-meta">
         Yasmine Kotturi <br>
         October 29, 2024 <br>
-        <b>tl;dr:</b> We compare two long-running tech support programs for small businesses in Detroit and Pittsburgh, identifying three keys to sustainability: flexible funding models (volunteers vs. paid local hires), trust-building through ongoing community partnerships, and teaching entrepreneurs to use tools independently rather than just fixing problems for them.
+        We compare two long-running tech support programs for small businesses in Detroit and Pittsburgh, identifying three keys to sustainability: flexible funding models (volunteers vs. paid local hires), trust-building through ongoing community partnerships, and teaching entrepreneurs to use tools independently rather than just fixing problems for them.
       </p>
       <a href="https://medium.com/acm-cscw/towards-sustainable-economic-futures-with-long-term-tech-support-for-local-businesses-5bd8e6018563" target="_blank" rel="noopener noreferrer" class="medium-blog-read-more">Read Full Article</a>
     </div>
