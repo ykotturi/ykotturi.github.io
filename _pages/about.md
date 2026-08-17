@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### I am an Assistant Professor of [Human-Centered Computing](https://hcc.umbc.edu/){:target="_blank"} at University of Maryland, Baltimore County in the Information Systems Department. I am also an Affiliate Faculty in the Department of Computer Science and Electrical Engineering. My work focuses on human-centered AI, the future of work, and community-engaged research, particularly with the goal of supporting worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University. 
+### I am an Assistant Professor of [Human-Centered Computing](https://hcc.umbc.edu/){:target="_blank"} at University of Maryland, Baltimore County in the Information Systems Department. I am also an Affiliate Faculty in the Department of Computer Science and Electrical Engineering, a [CRA Trustworthy AI Fellow](https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/){:target="_blank"}, and a [USM Generative AI Pedagogy Fellow](https://www.usmd.edu/cai/inaugural-cohort-faculty-named-generative-ai-pedagogy-fellows){:target="_blank"}. My work focuses on human-centered AI, the future of work, and community-engaged research, particularly with the goal of supporting worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University. 
 
 <!-- , under the supervision of [Chinmay Kulkarni](https://www.linkedin.com/in/chinmayk/){:target="_blank"}. More recently, I was a Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/){:target="_blank"}, also at Carnegie Mellon University. -->
 
