@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### I am an Assistant Professor of [Human-Centered Computing](https://hcc.umbc.edu/){:target="_blank"} at University of Maryland, Baltimore County in the Information Systems Department. I am also an Affiliate Faculty in the Department of Computer Science and Electrical Engineering, a [CRA Trustworthy AI Fellow](https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/){:target="_blank"}, and a [USM Generative AI Pedagogy Fellow](https://www.usmd.edu/cai/inaugural-cohort-faculty-named-generative-ai-pedagogy-fellows){:target="_blank"}. My work focuses on human-centered AI, the future of work, and community-engaged research, particularly with the goal of supporting worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University. 
+### I am an Assistant Professor of [Human-Centered Computing](https://hcc.umbc.edu/){:target="_blank"} at University of Maryland, Baltimore County in the Information Systems Department. I am also an Affiliate Faculty in the Department of Computer Science and Electrical Engineering, a [CRA Trustworthy AI Fellow](https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/){:target="_blank"}, a [USM Generative AI Pedagogy Fellow](https://www.usmd.edu/cai/inaugural-cohort-faculty-named-generative-ai-pedagogy-fellows){:target="_blank"}, and a [FASPE Design and Technology Fellow](https://www.faspe-ethics.org/2025-fellows/){:target="_blank"}. My work focuses on human-centered AI, the future of work, and community-engaged research, particularly with the goal of supporting worker resilience amid rapid technological change. I completed my Ph.D. in Human-Computer Interaction at Carnegie Mellon University. 
 
 <!-- , under the supervision of [Chinmay Kulkarni](https://www.linkedin.com/in/chinmayk/){:target="_blank"}. More recently, I was a Postdoctoral Scholar working with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/){:target="_blank"}, also at Carnegie Mellon University. -->
 
@@ -56,6 +56,7 @@ CHI 2026
   <a href="/files/CHI_2026___Student_AI_Policy-camera-ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <a href="https://dl.acm.org/doi/10.1145/3772318.3790691" target="_blank"><i class="fas fa-link"></i> DOI </a>
   <a href="https://ykotturi.github.io/zines" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://www.youtube.com/watch?v=mgqnKTnAf2Q" target="_blank"><i class="fab fa-youtube"></i> Video </a>
   <a href="https://lib.guides.umbc.edu/c.php?g=1475372&p=11187429" target="_blank"><i class="fas fa-archive"></i> Zine </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
@@ -396,41 +397,56 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 
 
 
-### Recent news:
+<div class="project-label">
+  Recent News
+</div>
 
-<div class="item">
-    <ol><a target="_blank" href="https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"><img src='/images/mit-tech-review.png' width="50" > Read my commentary in <em>MIT Technology Review</em> on informed consent for the gig workers training humanoid robots at home </a></ol>
-  </div>
-<div class="item">
-    <ol><a target="_blank" href="https://needle.podbean.com/e/ai-unscripted-from-policy-to-participation-co-creating-ai-guidelines-with-students/"><img src='/images/Podcast_Logo.png' width="50" > Listen to my conversation with University System of Maryland's Kirwan Center for Academic Innovation's <em>AI, Unscripted</em> podcast on participatory AI governance in higher education </a></ol>
-  </div>
-  <div class="item">
-    <ol><a target="_blank" href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/"><img src='/images/cra-logo.png' width="50" > Honored to be a CRA Trustworthy AI fellow in the inaugural cohort 2025-2026! </a></ol>
-  </div>
-  <div class="item">
-    <ol><a target="_blank" href="https://www.usmd.edu/cai/inaugural-cohort-faculty-named-generative-ai-pedagogy-fellows"><img src='/images/usm-logo.png' width="50" > Selected by UMBC Provost to be a USM Generative AI Pedagogy fellow in the inaugural cohort 2025-2026! </a></ol>
-  </div> 
-  <div class="item">
-    <ol><a target="_blank" href="https://entrepreneurship.umbc.edu/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC Eileen and Jerry Carroll Faculty Research Award as Co-PI: Design Commons Lab: Technical and Design Skill Building with Entrepreneurs and Residents in Baltimore City (2025-2026)</a></ol>
-  </div>
-  <div class="item">
-    <ol><a target="_blank" href="https://entrepreneurship.umbc.edu/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC Commercialization & ENTR REsearch (CENTRE) Award as PI: Sustaining Community-Driven AI: A Civic Commercialization Approach for BizChat (2025-2026)</a></ol>
-  </div>
-  <div class="item">
-    <ol><a target="_blank" href="https://www.faspe-ethics.org/2025-fellows/"><img src='/images/faspe_logo.jpg' width="50" > Honored to be selected as a 2025 FASPE Design and Technology Fellow!</a></ol>
-  </div>
-  <div class="item">
-    <ol><a target="_blank" href="https://calt.umbc.edu/academic-innovation-competition/"><img src='/images/UMBC-seal.png' width="50" > Received UMBC President Hrabowski Fund for Pedagogy Innovation as PI: Student-Driven Policy for Integrating Generative AI in a Design Classroom (2024-2025)</a></ol>
-  </div>
-  <div class="item">
-    <ol><a target="_blank" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222719"><img src='/images/NSF.png' width="50" > Received NSF FW-HTF award as CO-PI with Nik Martelaro, Wendy Ju, and Laura Dabbish: Using Technology to Transform Makers into Creative Entrepreneurs (2022-2023)</a></ol>
-  </div>
-   <div class="item">
-    <ol><a target="_blank" href="https://risingstars.utexas.edu/profiles/yasmine-kotturi"><img src='/images/rising-star.png' width="150">  Grateful to be deemed an EECS Rising Star </a></ol>
-  </div>
-  <div class="item">
-    <ol><a target="_blank" href="https://csd.cmu.edu/news/five-scs-students-named-siebel-scholars"><img src='/images/S_scholars_logo-color.jpeg' width="140">I received the Siebel Scholars Award</a></ol>
-  </div>
+<div class="news-list">
+  <a class="news-item" href="https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/mit-tech-review.png" alt="MIT Technology Review"></span>
+    <span class="news-text">Read my commentary in <em>MIT Technology Review</em> on informed consent for the gig workers training humanoid robots at home</span>
+  </a>
+  <a class="news-item" href="https://needle.podbean.com/e/ai-unscripted-from-policy-to-participation-co-creating-ai-guidelines-with-students/" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/Podcast_Logo.png" alt="AI, Unscripted podcast"></span>
+    <span class="news-text">Listen to my conversation with the University System of Maryland Kirwan Center&rsquo;s <em>AI, Unscripted</em> podcast on participatory AI governance in higher education</span>
+  </a>
+  <a class="news-item" href="https://cra.org/crn/2025/10/cra-trustworthy-ai-research-fellow-spotlight-yasmine-kotturi/" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/cra-logo.png" alt="Computing Research Association"></span>
+    <span class="news-text">Honored to be a CRA Trustworthy AI Fellow in the inaugural cohort, 2025&ndash;2026</span>
+  </a>
+  <a class="news-item" href="https://www.usmd.edu/cai/inaugural-cohort-faculty-named-generative-ai-pedagogy-fellows" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/usm-logo.png" alt="University System of Maryland"></span>
+    <span class="news-text">Selected by the UMBC Provost as a USM Generative AI Pedagogy Fellow in the inaugural cohort, 2025&ndash;2026</span>
+  </a>
+  <a class="news-item" href="https://entrepreneurship.umbc.edu/" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/UMBC-seal.png" alt="UMBC"></span>
+    <span class="news-text">Received the UMBC Eileen and Jerry Carroll Faculty Research Award as Co-PI: Design Commons Lab: Technical and Design Skill Building with Entrepreneurs and Residents in Baltimore City, 2025&ndash;2026</span>
+  </a>
+  <a class="news-item" href="https://entrepreneurship.umbc.edu/" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/UMBC-seal.png" alt="UMBC"></span>
+    <span class="news-text">Received the UMBC Commercialization &amp; Entrepreneurship Research (CENTRE) Award as PI: Sustaining Community-Driven AI: A Civic Commercialization Approach for BizChat, 2025&ndash;2026</span>
+  </a>
+  <a class="news-item" href="https://www.faspe-ethics.org/2025-fellows/" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/faspe_logo.jpg" alt="FASPE"></span>
+    <span class="news-text">Honored to be selected as a 2025 FASPE Design and Technology Fellow</span>
+  </a>
+  <a class="news-item" href="https://calt.umbc.edu/academic-innovation-competition/" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/UMBC-seal.png" alt="UMBC"></span>
+    <span class="news-text">Received the UMBC President Hrabowski Fund for Pedagogy Innovation as PI: Student-Driven Policy for Integrating Generative AI in a Design Classroom, 2024&ndash;2025</span>
+  </a>
+  <a class="news-item" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222719" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/NSF.png" alt="National Science Foundation"></span>
+    <span class="news-text">Received an NSF FW-HTF award as Co-PI with Nik Martelaro, Wendy Ju, and Laura Dabbish: Using Technology to Transform Makers into Creative Entrepreneurs, 2022&ndash;2023</span>
+  </a>
+  <a class="news-item" href="https://risingstars.utexas.edu/profiles/yasmine-kotturi" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/rising-star.png" alt="EECS Rising Stars"></span>
+    <span class="news-text">Grateful to be deemed an EECS Rising Star</span>
+  </a>
+  <a class="news-item" href="https://csd.cmu.edu/news/five-scs-students-named-siebel-scholars" target="_blank" rel="noopener">
+    <span class="news-logo"><img src="/images/S_scholars_logo-color.jpeg" alt="Siebel Scholars"></span>
+    <span class="news-text">Received the Siebel Scholars Award</span>
+  </a>
+</div>
 
 <br>
 

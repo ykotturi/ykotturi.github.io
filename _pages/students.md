@@ -22,6 +22,13 @@ author_profile: true
     </a>
     <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
   </div>
+  <div class="student-item">
+    <a href="https://www.linkedin.com/in/malaika-wanjihia-302a06141/" target="_blank">
+      <img src="/images/malaika.jpeg" alt="Malaika Wanjihia" class="student-photo">
+      <h3 class="student-name">Malaika Wanjihia</h3>
+    </a>
+    <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
+  </div>
 </div>
 
 
@@ -55,6 +62,13 @@ author_profile: true
       <h3 class="student-name">Satwik Tungala</h3>
     </a>
     <p class="student-degree">MS Computer Science '27, <br> University of Maryland, <br> Baltimore County</p>
+  </div>
+  <div class="student-item">
+    <a href="https://sakshiguides.framer.website/" target="_blank">
+      <img src="/images/sakshi.png" alt="Sakshi Jaju" class="student-photo">
+      <h3 class="student-name">Sakshi Jaju</h3>
+    </a>
+    <p class="student-degree">MS Human-Centered Computing, <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
     <a href="https://www.linkedin.com/in/oluwafisayomi-oyolola-a57904329/" target="_blank">
