@@ -22,13 +22,6 @@ author_profile: true
     </a>
     <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
   </div>
-  <div class="student-item">
-    <a href="https://www.linkedin.com/in/malaika-wanjihia-302a06141/" target="_blank">
-      <img src="/images/malaika.jpeg" alt="Malaika Wanjihia" class="student-photo">
-      <h3 class="student-name">Malaika Wanjihia</h3>
-    </a>
-    <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
-  </div>
 </div>
 
 
