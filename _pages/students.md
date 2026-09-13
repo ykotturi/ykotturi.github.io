@@ -10,8 +10,8 @@ author_profile: true
 <div class="student-container">
   <div class="student-item">
     <a href="https://marjory-pineda.github.io/" target="_blank">
-      <img src="/images/Marjory_Pineda_headshot.jpg" alt="Marjory Pineda" class="student-photo">
-      <h3 class="student-name">Marjory Pineda</h3>
+      <img src="/images/Marjory_Pineda_headshot.jpg" alt="Marjory Pineda Estrada" class="student-photo">
+      <h3 class="student-name">Marjory Pineda Estrada</h3>
     </a>
     <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
   </div>
