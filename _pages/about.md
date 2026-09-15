@@ -84,6 +84,7 @@ CHI 2026
   <a href="/files/BizChat_CHI_2026_Final___Camera-Ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <a href="https://dl.acm.org/doi/10.1145/3772318.3791654" target="_blank"><i class="fas fa-link"></i> DOI </a>
   <a href="https://bizchat-io.vercel.app/" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://youtu.be/yyl5oYCXmLU" target="_blank"><i class="fab fa-youtube"></i> Demo video </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
 </div>
@@ -113,6 +114,7 @@ CHIWORK Demo 2025
   <a href="https://dl.acm.org/doi/10.1145/3707640.3731928" target="_blank"><i class="fas fa-link"></i> DOI </a>
   <a href="https://bizchat-io.vercel.app" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <a href="https://www.youtube.com/watch?v=jNYSqKafjKE" target="_blank"><i class="fab fa-youtube"></i> Video </a>
+  <a href="https://youtu.be/yyl5oYCXmLU" target="_blank"><i class="fab fa-youtube"></i> Demo video </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
 </div>
 </div>
