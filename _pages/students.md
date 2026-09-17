@@ -25,7 +25,7 @@ author_profile: true
 </div>
 
 
-<h2>Undergraduate and Masters Students</h2>
+<h2>Current Master's and Undergraduate Students</h2>
 <div style="margin-bottom: 20px;"></div>
 <div class="student-container">
   <div class="student-item">
@@ -50,13 +50,6 @@ author_profile: true
     <p class="student-degree">MS Human-Centered Computing '26, <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
-    <a href="https://satwiktungala.com/" target="_blank">
-      <img src="/images/satwik-headshot.png" alt="Satwik Tungala" class="student-photo">
-      <h3 class="student-name">Satwik Tungala</h3>
-    </a>
-    <p class="student-degree">MS Computer Science '27, <br> University of Maryland, <br> Baltimore County</p>
-  </div>
-  <div class="student-item">
     <a href="https://sakshiguides.framer.website/" target="_blank">
       <img src="/images/sakshi.png" alt="Sakshi Jaju" class="student-photo">
       <h3 class="student-name">Sakshi Jaju</h3>
@@ -69,13 +62,6 @@ author_profile: true
       <h3 class="student-name">Fisayo Oyolola</h3>
     </a>
     <p class="student-degree">BS Information Systems '28, <br> University of Maryland, <br> Baltimore County</p>
-  </div>
-  <div class="student-item">
-    <a href="https://www.linkedin.com/in/neha-rahel-martin/" target="_blank">
-      <img src="/images/neha-headshot.png" alt="Neha Rahel Martin" class="student-photo">
-      <h3 class="student-name">Neha Rahel Martin</h3>
-    </a>
-    <p class="student-degree">BS Information Systems '27, <br> Minor in User Experience &amp; <br> Human-Centered Computing (UX/HCC) <br> University of Maryland, <br> Baltimore County</p>
   </div>
 </div>
 
