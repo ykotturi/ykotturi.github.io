@@ -74,7 +74,7 @@ Generative AI is reshaping education, yet most classroom policies are written wi
 
 ### Towards Designing for Resilience: Community-Centered Deployment of an AI Business Planning Tool in a Small Business Center
 
-Quentin Romero Lauro, Aakash Gautum, Yasmine Kotturi
+Quentin Romero Lauro, Aakash Gautam, Yasmine Kotturi
 
 Through community-centered workshops at a feminist makerspace, this study examines how entrepreneurs collectively navigate AI-assisted business planning—revealing tensions between instant outputs and reflective sensemaking, and how peer support enables adoption, adaptation, and refusal of AI tools.
 
@@ -103,7 +103,7 @@ Entrepreneurs in resource-constrained communities often lack time and support to
 
 ### BizChat: Scaffolding AI-Powered Business Planning for Small Business Owners Across Digital Skill Levels
 
-Quentin Romero Lauro, Aakash Gautum, Yasmine Kotturi
+Quentin Romero Lauro, Aakash Gautam, Yasmine Kotturi
 
 In this demo, we introduce BizChat, an AI-powered web application designed to help small business owners complete tedious yet essential back-office tasks (e.g., writing a business plan). Drawing from learning sciences, BizChat provides accessible, just-in-time support tailored to users' digital skills and business goals.
 
