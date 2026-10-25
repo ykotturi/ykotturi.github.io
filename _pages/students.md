@@ -43,6 +43,7 @@ author_profile: true
       <h3 class="student-name">Manisha Vijay</h3>
     </a>
     <p class="student-degree">MS Human-Centered Computing '27, <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-alumni-note"><span class="student-alumni-label">Award</span> <a href="https://ires.dcx.events/" target="_blank">Citizen-Centered AI Summer Research Fellow</a>, Northumbria University</p>
   </div>
   <div class="student-item">
     <a href="https://ketulchhaya.com" target="_blank">
