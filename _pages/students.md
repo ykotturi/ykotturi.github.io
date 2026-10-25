@@ -73,6 +73,7 @@ author_profile: true
       <h3 class="student-name">Fisayo Oyolola</h3>
     </a>
     <p class="student-degree">BS Information Systems '28, <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-alumni-note"><span class="student-alumni-label">Award</span> <a href="https://ur.umbc.edu/ura/current-scholars/#o" target="_blank">UMBC Undergraduate Research Award</a></p>
   </div>
 </div>
 
