@@ -1,0 +1,18 @@
+# Recent news for the Everyday Design Lab page (/lab/).
+# Newest first. To add an item, copy a block and edit it.
+#   date: shown as written (e.g. "Oct 2026")
+#   text: one or two sentences; Markdown links work
+#   image: optional photo in /images/ (without one, the card shows the date)
+#   link / link_text: optional "read more" link
+
+- date: "Oct 2026"
+  text: "[Student names] attended Collective Intelligence 2026, took part in CrowdCamp, and presented a poster on [poster topic]."
+  image: ""
+  link: ""
+  link_text: "See the poster"
+
+- date: "Oct 2026"
+  text: "Marjory [Last name] was interviewed by [outlet] about [topic]."
+  image: ""
+  link: ""
+  link_text: "Watch the interview"
