@@ -1,7 +1,7 @@
 ---
 title: 'The Everyday Design Lab Goes to CHI 2026'
 date: 2026-05-27
-permalink: /posts/2026/05/the-kotturi-lab-goes-to-chi-2026/
+permalink: /posts/2026/05/the-everyday-design-lab-goes-to-chi-2026/
 fig_lab:
   - image_path: chi-all-kotturi-lab.jpeg
     alt: The Everyday Design Lab at CHI 2026
