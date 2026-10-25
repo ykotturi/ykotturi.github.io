@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kotturi Lab Blog"
+title: "Everyday Design Lab Blog"
 permalink: /blog/
 author_profile: true
 ---
@@ -9,16 +9,16 @@ author_profile: true
   <!-- Blog Post 0 -->
   <article class="medium-blog-post">
     <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/" class="medium-blog-thumb-link">
-      <img src="/images/chi-all-kotturi-lab.jpeg" alt="Kotturi Lab Goes to CHI" class="medium-blog-thumb">
+      <img src="/images/chi-all-kotturi-lab.jpeg" alt="Everyday Design Lab Goes to CHI" class="medium-blog-thumb">
     </a>
     <div class="medium-blog-content">
       <h2 class="medium-blog-title">
-        <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/">Kotturi Lab Goes to CHI</a>
+        <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/">Everyday Design Lab Goes to CHI</a>
       </h2>
       <p class="medium-blog-meta">
         Yasmine Kotturi <br>
         May 27, 2026 <br>
-        The Kotturi Lab presented two papers at CHI 2026 on student-driven AI policy design and community-centered deployment of BizChat, an AI business-planning tool for small business planning.
+        The Everyday Design Lab presented two papers at CHI 2026 on student-driven AI policy design and community-centered deployment of BizChat, an AI business-planning tool for small business planning.
       </p>
       <a href="/posts/2026/05/the-kotturi-lab-goes-to-chi-2026/" class="medium-blog-read-more">Read Full Article</a>
     </div>

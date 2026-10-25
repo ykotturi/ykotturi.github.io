@@ -1,10 +1,10 @@
 ---
-title: 'The Kotturi Lab Goes to CHI 2026'
+title: 'The Everyday Design Lab Goes to CHI 2026'
 date: 2026-05-27
 permalink: /posts/2026/05/the-kotturi-lab-goes-to-chi-2026/
 fig_lab:
   - image_path: chi-all-kotturi-lab.jpeg
-    alt: The Kotturi Lab at CHI 2026
+    alt: The Everyday Design Lab at CHI 2026
 fig_umbc:
   - image_path: chi-all-umbc.jpg
     alt: UMBC researchers at CHI 2026
@@ -40,9 +40,9 @@ fig_bizchat:
 }
 </style>
 
-We are thrilled to share that the Kotturi Lab presented two papers and a poster at CHI 2026 in Barcelona. Just as meaningful as the work itself: this was the first CHI for all of our students, and for Kaoru, Manisha, and Qi, the first academic conference of any kind. Watching them give their first talks, run their first poster session, and find their footing in a room of thousands was the highlight of the week.
+We are thrilled to share that the Everyday Design Lab presented two papers and a poster at CHI 2026 in Barcelona. Just as meaningful as the work itself: this was the first CHI for all of our students, and for Kaoru, Manisha, and Qi, the first academic conference of any kind. Watching them give their first talks, run their first poster session, and find their footing in a room of thousands was the highlight of the week.
 
-{% include gallery id="fig_lab" caption="The Kotturi Lab at CHI 2026 in Barcelona. From left to right: Qi Zhao, Yasmine Kotturi, Manisha Vijay, Kaoru Seki, and Quentin Romero Lauro." %}
+{% include gallery id="fig_lab" caption="The Everyday Design Lab at CHI 2026 in Barcelona. From left to right: Qi Zhao, Yasmine Kotturi, Manisha Vijay, Kaoru Seki, and Quentin Romero Lauro." %}
 
 Our two accepted papers — [**Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom**](/files/CHI_2026___Student_AI_Policy-camera-ready.pdf){:target="_blank" rel="noopener"} and [**Towards Designing for Resilience: Community-Centered Deployment of an AI Business Planning Tool in a Small Business Center**](/files/BizChat_CHI_2026_Final___Camera-Ready.pdf){:target="_blank" rel="noopener"} — reflect our ongoing commitment to human-centered AI, participatory design, and community-engaged research. We're grateful to our collaborators and students who made this work possible.
 

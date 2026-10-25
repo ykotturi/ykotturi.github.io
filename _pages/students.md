@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Students in the Kotturi Lab"
+title: "Students in the Everyday Design Lab"
 permalink: /students/
 author_profile: true
 ---
