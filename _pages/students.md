@@ -14,6 +14,7 @@ author_profile: true
       <h3 class="student-name">Marjory Pineda Estrada</h3>
     </a>
     <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-alumni-note"><span class="student-alumni-label">Award</span> <a href="https://www.gemfellowship.org/2025-gem-fellows/" target="_blank">GEM Fellow</a></p>
   </div>
   <div class="student-item">
     <a href="https://qizhao-umbc.github.io/" target="_blank">
