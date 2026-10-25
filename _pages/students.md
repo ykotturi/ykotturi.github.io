@@ -45,13 +45,6 @@ author_profile: true
     <p class="student-degree">MS Human-Centered Computing '27, <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
-    <a href="https://ketulchhaya.com" target="_blank">
-      <img src="/images/ketul.jpg" alt="Ketul Chhaya" class="student-photo">
-      <h3 class="student-name">Ketul Chhaya</h3>
-    </a>
-    <p class="student-degree">MS Computer Science '26, <br> University of Maryland, <br> Baltimore County</p>
-  </div>
-  <div class="student-item">
     <a href="https://aasmitabhattacharya.com/" target="_blank">
       <img src="/images/aasmita-headshot.jpg" alt="Aasmita Bhattacharya headshot" class="student-photo">
       <h3 class="student-name">Aasmita Bhattacharya</h3>
@@ -92,6 +85,14 @@ author_profile: true
     </a>
     <p class="student-degree">MS Human-Centered Computing '25, <br> University of Maryland, <br> Baltimore County</p>
     <p class="student-alumni-note"><span class="student-alumni-label">Now</span> PhD in Computer Science, <br> University of Cambridge</p>
+  </div>
+  <div class="student-item">
+    <a href="https://ketulchhaya.com" target="_blank">
+      <img src="/images/ketul.jpg" alt="Ketul Chhaya" class="student-photo">
+      <h3 class="student-name">Ketul Chhaya</h3>
+    </a>
+    <p class="student-degree">MS Computer Science '26, <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-alumni-note"><span class="student-alumni-label">Now</span> Code Fellow at Snorkel AI</p>
   </div>
 </div>
 
