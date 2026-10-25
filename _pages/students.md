@@ -85,6 +85,7 @@ author_profile: true
     </a>
     <p class="student-degree">BS Computer Science '26, <br> University of Pittsburgh</p>
     <p class="student-alumni-note"><span class="student-alumni-label">Now</span> Co-Founder of <a href="https://radiusbrowser.com/docs/introduction" target="_blank">Radius Browser</a> (YC25)</p>
+    <p class="student-alumni-note"><span class="student-alumni-label">Award</span> Finalist, <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/" target="_blank">CRA Outstanding Undergraduate Researcher Award</a></p>
   </div>
   <div class="student-item">
     <a href="https://www.kaoruseki.com/" target="_blank">
