@@ -55,7 +55,7 @@ CHI 2026
 <div class="des-bar">
   <a href="/files/CHI_2026___Student_AI_Policy-camera-ready.pdf" target="_blank"><i class="fas fa-link"></i> PDF </a>
   <a href="https://dl.acm.org/doi/10.1145/3772318.3790691" target="_blank"><i class="fas fa-link"></i> DOI </a>
-  <a href="https://ykotturi.github.io/zines" target="_blank"><i class="fas fa-globe"></i> Project website </a>
+  <a href="https://ykotturi.github.io/zines/ai-policy/" target="_blank"><i class="fas fa-globe"></i> Project website </a>
   <a href="https://www.youtube.com/watch?v=mgqnKTnAf2Q" target="_blank"><i class="fab fa-youtube"></i> Video </a>
   <a href="https://lib.guides.umbc.edu/c.php?g=1475372&p=11187429" target="_blank"><i class="fas fa-archive"></i> Zine </a>
   <a href="#" class="show-abstract"><i class="fas fa-quote-left"></i> Abstract</a>
