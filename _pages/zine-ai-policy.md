@@ -10,6 +10,8 @@ author_profile: true
   
   <p style="margin: 10px 0 20px 0; font-weight: 500;">Explore the interactive digital zine below by clicking on the pages to advance, as if you were flipping through a paper booklet.</p>
   
+  <a class="zine-fullscreen-btn" href="https://www.figma.com/proto/eEUvwzJrp4hbVP7SK6DLia/-FINAL--AI-Policy-Zine?page-id=595%3A2&node-id=760-1741&p=f&viewport=-1473%2C-6693%2C0.56&t=oeCRr6ZcwjH4YOpK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=760%3A1741" target="_blank" rel="noopener noreferrer"><i class="fas fa-expand" style="margin-right: 8px;"></i>Open zine full screen</a>
+  
   <div class="figma-embed-wrapper">
     <iframe 
       style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 8px;" 
@@ -164,13 +166,37 @@ author_profile: true
     border: none;
   }
   
+  .zine-fullscreen-btn {
+    display: none;
+  }
+  
   @media (max-width: 768px) {
-    .figma-embed-wrapper {
-      padding-bottom: 75%; /* Taller aspect ratio on mobile */
+    .zine-container {
+      padding: 20px 0;
     }
     
-    .figma-embed-wrapper iframe {
-      min-height: 500px;
+    /* Size the frame to a zine page's portrait shape instead of a fixed 800px */
+    .figma-embed-wrapper {
+      height: auto;
+      aspect-ratio: 2 / 3;
+      max-height: 85vh;
+    }
+    
+    .zine-fullscreen-btn {
+      display: block;
+      text-align: center;
+      background-color: #0366d6;
+      color: #fff;
+      padding: 12px 16px;
+      border-radius: 6px;
+      font-weight: 500;
+      text-decoration: none;
+      margin: 0 0 15px 0;
+    }
+    
+    .zine-fullscreen-btn:hover {
+      color: #fff;
+      text-decoration: none;
     }
   }
 </style> 
