@@ -8,11 +8,7 @@ author_profile: true
 <div class="zine-container">
   <h2>Student-Driven AI Policy Recommendations</h2>
   
-  <div class="zine-intro">
-    <p>This zine is part of an ongoing effort to imagine what participatory governance of AI could look like in higher education. Rather than treating policy as something written behind closed doors, we invited students to co-design recommendations based on their own experiences using generative AI in class. Their zine offers practical guidance for instructors and peers, and serves as a reminder that meaningful AI policy emerges from dialogue, not directives—when those most affected have a hand in shaping the rules.</p>
-  </div>
-  
-  <p style="margin: 30px 0 20px 0; font-weight: 500;">Explore the interactive digital zine below by clicking on the pages to advance, as if you were flipping through a paper booklet.</p>
+  <p style="margin: 10px 0 20px 0; font-weight: 500;">Explore the interactive digital zine below by clicking on the pages to advance, as if you were flipping through a paper booklet.</p>
   
   <div class="figma-embed-wrapper">
     <iframe 
@@ -22,6 +18,10 @@ author_profile: true
       src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeEUvwzJrp4hbVP7SK6DLia%2F-FINAL--AI-Policy-Zine%3Fpage-id%3D595%253A2%26node-id%3D760-1741%26p%3Df%26viewport%3D-1473%252C-6693%252C0.56%26t%3DoeCRr6ZcwjH4YOpK-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26starting-point-node-id%3D760%253A1741" 
       allowfullscreen>
     </iframe>
+  </div>
+  
+  <div class="zine-intro">
+    <p>This zine is part of an ongoing effort to imagine what participatory governance of AI could look like in higher education. Rather than treating policy as something written behind closed doors, we invited students to co-design recommendations based on their own experiences using generative AI in class. Their zine offers practical guidance for instructors and peers, and serves as a reminder that meaningful AI policy emerges from dialogue, not directives—when those most affected have a hand in shaping the rules.</p>
   </div>
   
   <div class="archive-notice">
@@ -55,7 +55,7 @@ author_profile: true
     background-color: #f8f9fa;
     padding: 20px;
     border-radius: 8px;
-    margin-bottom: 25px;
+    margin: 25px 0;
     line-height: 1.7;
   }
   
