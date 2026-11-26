@@ -108,12 +108,24 @@ excerpt: "Free, one-on-one AI and tech support for Baltimore's small and minorit
 
   <section class="ahd-section">
     <h2>How a session works</h2>
+    <div class="ahd-how">
+      <div>
     <ol class="ahd-steps">
       <li><strong>Bring a question or a task.</strong> Big or small, AI or not. Bring your laptop, or borrow one of ours during the session.</li>
       <li><strong>Work on it together.</strong> You stay in the driver's seat while a team member works beside you, much like pair programming, where two people solve one problem together on one computer.</li>
       <li><strong>Leave with next steps.</strong> You go home with something done and a plan for what's next. If your question needs a specialist (legal, procurement, and more), we connect you with experts at SMBA&amp;D.</li>
     </ol>
     <p>You can also find us at SMBA&amp;D business events running <em>"Ask me anything about AI"</em> tables.</p>
+      </div>
+      <figure class="ahd-reel">
+        <video controls playsinline preload="metadata" poster="/images/ahd-testimonial-poster.jpg" aria-label="AI Help Desk testimonial video">
+          <source src="/files/ahd-testimonial.mp4" type="video/mp4">
+          <source src="/files/ahd-testimonial.webm" type="video/webm">
+          <a href="https://www.instagram.com/reel/DgN4M7qS2FG/">Watch the AI Help Desk video on Instagram</a>
+        </video>
+        <figcaption>AI Help Desk testimonial by <a href="https://www.instagram.com/shamirevalintina/" target="_blank" rel="noopener">@shamirevalintina</a></figcaption>
+      </figure>
+    </div>
   </section>
 
   <section class="ahd-section">
@@ -410,6 +422,25 @@ excerpt: "Free, one-on-one AI and tech support for Baltimore's small and minorit
   .ahd-steps { padding-left: 1.3em; }
   .ahd-steps li { margin-bottom: 0.6em; }
 
+  /* How it works + video */
+  .ahd-how {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 210px;
+    gap: 2.5em;
+    align-items: center;
+  }
+  .ahd-reel { margin: 0; }
+  .ahd-reel video {
+    display: block;
+    width: 100%;
+    aspect-ratio: 9 / 16;
+    background: #000;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  }
+  .ahd-reel figcaption { margin-top: 0.5em; font-size: 0.8rem; line-height: 1.4; text-align: center; }
+  .ahd-how .ahd-steps { margin-top: 0; }
+
   /* Carousel */
   .ahd-carousel { position: relative; }
   .ahd-slides {
@@ -528,7 +559,8 @@ excerpt: "Free, one-on-one AI and tech support for Baltimore's small and minorit
     .ahd-logos img { height: 40px; }
     .ahd-logos .ahd-logo-edl { height: 38px; }
     .ahd-logos .ahd-logo-smbad { height: 34px; }
-    .ahd-leads, .ahd-research { grid-template-columns: 1fr; }
+    .ahd-leads, .ahd-research, .ahd-how { grid-template-columns: 1fr; }
+    .ahd-reel { max-width: 280px; margin: 0 auto; }
     .ahd-advisor { max-width: none; }
     .ahd-when { padding: 1.2em; }
     .ahd-row { grid-template-columns: 1fr; gap: 0.1em; }
