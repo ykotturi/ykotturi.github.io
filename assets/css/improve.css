@@ -205,6 +205,13 @@ display: none;
 .news-list .news-item:hover .news-text {
     color: #186ca3;
 }
+.news-list .news-date {
+    display: block;
+    font-size: 12px;
+    font-weight: 600;
+    color: #8a96a0;
+    margin-bottom: 2px;
+}
 @media screen and (max-width: 600px) {
     .news-list .news-item {
         gap: 14px;
