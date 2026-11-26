@@ -404,6 +404,10 @@ Yasmine Kotturi, TJ Johnson, Michael Skirpan, Sarah E Fox, Jeffrey P Bigham, Amy
 </div>
 
 <div class="news-list">
+  <a class="news-item" href="/aihelpdesk/">
+    <span class="news-logo"><img src="/images/ahd-logo-city.png" alt="City of Baltimore"></span>
+    <span class="news-text">We&rsquo;ve officially begun a collaboration with the Baltimore City Mayor&rsquo;s Office of Small and Minority Business Advocacy &amp; Development to launch <em>AI Help Desk</em>, free one-on-one AI and tech help for Baltimore&rsquo;s small business owners</span>
+  </a>
   <a class="news-item" href="https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/" target="_blank" rel="noopener">
     <span class="news-logo"><img src="/images/mit-tech-review.png" alt="MIT Technology Review"></span>
     <span class="news-text">Read my commentary in <em>MIT Technology Review</em> on informed consent for the gig workers training humanoid robots at home</span>
