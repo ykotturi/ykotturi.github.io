@@ -45,7 +45,7 @@ excerpt: "Free, one-on-one AI and tech support for Baltimore's small and minorit
         <img src="/images/qi-zhao.jpg" alt="">
         <div>
           <h3>Qi Zhao</h3>
-          <p class="ahd-role">Lead Tech Provider</p>
+          <p class="ahd-role">Tech Provider</p>
           <p>PhD student, Human-Centered Computing, UMBC · qiz1@umbc.edu</p>
         </div>
       </a>
