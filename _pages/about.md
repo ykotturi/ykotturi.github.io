@@ -469,6 +469,10 @@ Thank you to the supporters of my work:
 <div class="project-supporters">
 
 <div class="item">
+<img src='/images/mozilla-foundation-wordmark.svg' width="160" alt="Mozilla Foundation">
+</div>
+
+<div class="item">
 <img src='/images/cra-logo.png' width="100" >
 </div>
 
