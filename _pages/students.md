@@ -45,7 +45,7 @@ author_profile: true
     <p class="student-alumni-note"><span class="student-alumni-label">Award</span> <a href="https://ires.dcx.events/" target="_blank">Citizen-Centered AI Summer Research Fellow</a>, Northumbria University</p>
   </div>
   <div class="student-item">
-    <a href="https://www.linkedin.com/in/oluwafisayomi-oyolola-a57904329/" target="_blank">
+    <a href="https://fisayoooooo.github.io/" target="_blank">
       <img src="/images/fisayo-headshot.png" alt="Fisayo Oyolola" class="student-photo">
       <h3 class="student-name">Fisayo Oyolola</h3>
     </a>
