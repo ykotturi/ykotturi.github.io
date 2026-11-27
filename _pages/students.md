@@ -23,7 +23,6 @@ author_profile: true
     </a>
     <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
   </div>
-  <!-- Malaika Wanjihia: portfolio at https://wanjihiam16.github.io/malaika-wanjihia/
   <div class="student-item">
     <a href="https://wanjihiam16.github.io/malaika-wanjihia/" target="_blank">
       <img src="/images/malaika-wanjihia.jpg" alt="Malaika Wanjihia" class="student-photo">
@@ -31,7 +30,6 @@ author_profile: true
     </a>
     <p class="student-degree">PhD Human-Centered Computing <br> University of Maryland, <br> Baltimore County</p>
   </div>
-  -->
 </div>
 
 
@@ -45,21 +43,6 @@ author_profile: true
     </a>
     <p class="student-degree">MS Human-Centered Computing '27, <br> University of Maryland, <br> Baltimore County</p>
     <p class="student-alumni-note"><span class="student-alumni-label">Award</span> <a href="https://ires.dcx.events/" target="_blank">Citizen-Centered AI Summer Research Fellow</a>, Northumbria University</p>
-  </div>
-  <div class="student-item">
-    <a href="https://ketulchhaya.com" target="_blank">
-      <img src="/images/ketul.jpg" alt="Ketul Chhaya" class="student-photo">
-      <h3 class="student-name">Ketul Chhaya</h3>
-    </a>
-    <p class="student-degree">MS Computer Science '26, <br> University of Maryland, <br> Baltimore County</p>
-    <p class="student-alumni-note">Soon-to-be Code Fellow at Snorkel AI</p>
-  </div>
-  <div class="student-item">
-    <a href="https://sakshiguides.framer.website/" target="_blank">
-      <img src="/images/sakshi.png" alt="Sakshi Jaju" class="student-photo">
-      <h3 class="student-name">Sakshi Jaju</h3>
-    </a>
-    <p class="student-degree">MS Human-Centered Computing, <br> University of Maryland, <br> Baltimore County</p>
   </div>
   <div class="student-item">
     <a href="https://www.linkedin.com/in/oluwafisayomi-oyolola-a57904329/" target="_blank">
@@ -97,6 +80,14 @@ author_profile: true
       <h3 class="student-name">Aasmita Bhattacharya</h3>
     </a>
     <p class="student-degree">MS Human-Centered Computing '26, <br> University of Maryland, <br> Baltimore County</p>
+  </div>
+  <div class="student-item">
+    <a href="https://ketulchhaya.com" target="_blank">
+      <img src="/images/ketul.jpg" alt="Ketul Chhaya" class="student-photo">
+      <h3 class="student-name">Ketul Chhaya</h3>
+    </a>
+    <p class="student-degree">MS Computer Science '26, <br> University of Maryland, <br> Baltimore County</p>
+    <p class="student-alumni-note"><span class="student-alumni-label">Now</span> Code Fellow at Snorkel AI</p>
   </div>
 </div>
 
